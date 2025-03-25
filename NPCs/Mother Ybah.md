@@ -9,7 +9,7 @@ Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items:
@@ -34,46 +34,50 @@ description: |-
 
   in charge of the hearth.
 ---
-
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
-> |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
-> |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
-> |**Pronunciation**|`INPUT[text:pronunciation]`|
+> |**Tags**|`INPUT[list:tags]`|
 > |**Aliases**|`INPUT[list:aliases]`|
-> |**Traits**| `INPUT[Personality][inlineListSuggester:traits]`|
+> |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
+> |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
+> |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
+> |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
 # Mother Ybah
+> [!infobox | right]+
+> # Mother Ybah
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+
 > [!column|2 no-title]
 >
 >>
->> ### Overview
->>| Pronunciation | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
 >>  `VIEW[{description}][text]`
+>>  ### Traits
+>> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-# Personality
-> [!column|3 no-title]
->
->>
->> ### Traits
->> `VIEW[{traits}][text(renderMarkdown)]`
->
->> ### Motivations
->> `VIEW[{motivation}][text]`
->
->>### Weaknesses
->> `VIEW[{weakness}][text]`
 
-# Other Details
+#### Scratchpad
+
+
+
+
+
+

@@ -4,5 +4,6 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "foldHeading": true,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "defaultViewMode": "preview"
 }

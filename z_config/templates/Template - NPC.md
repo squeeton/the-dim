@@ -23,11 +23,6 @@ nimbusLongTerm: ""
 traits: []
 description: ""
 ---
-starting with childhood In character exploration of setting from perspective of the village and its beliefs/rituals/superstitions...late teen character exploration to develop seeds of personality/abilities...and finally the more traditional hook mechanic to get the story going.
-
-
-
-
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
