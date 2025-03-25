@@ -30,10 +30,13 @@ uses: ""
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
-> |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
-> |**Pronunciation**|`INPUT[text:pronunciation]`|
+> |**Tags**|`INPUT[list:tags]`|
 > |**Aliases**|`INPUT[list:aliases]`|
-> |**Traits**| `INPUT[Personality][inlineListSuggester:traits]`|
+> |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
+> |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
+> |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
+> |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Uses** |`INPUT[textArea:uses]`|
 > |**Defenses** |`INPUT[textArea:defenses]`|

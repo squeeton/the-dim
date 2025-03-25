@@ -14,12 +14,13 @@ aliases: []
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
+> |**Tags**|`INPUT[list:tags]`|
+> |**Aliases**|`INPUT[list:aliases]`|
 > |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
-> |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
-> |Aliases|`INPUT[list:aliases]`|
+> |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Uses** |`INPUT[textArea:uses]`|
 > |**Weight** |`INPUT[text:weight]`|

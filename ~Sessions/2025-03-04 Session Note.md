@@ -1,7 +1,6 @@
 ---
 dg-publish: false
 tags:
-  - timeline
   - SessionJournals
 icon: FasBook
 groups:

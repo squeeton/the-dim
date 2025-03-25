@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline.md",
+                "file": "z_config/templates/Template - Creature.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Timeline"
+              "title": "Outline of Template - Creature"
             }
           },
           {
@@ -142,7 +142,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -181,24 +183,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d38efcb9f9bd34fc",
+  "active": "ec34921eb36c0608",
   "lastOpenFiles": [
     "z_config/templates/Template - Deity.md",
     "z_config/templates/Template - Event.md",
     "z_config/templates/Template - Group.md",
     "z_config/templates/Template - Item.md",
-    "z_config/templates/Template - NPC.md",
     "z_config/templates/Template - Location.md",
+    "z_config/templates/Template - NPC.md",
+    "z_config/templates/Template - Session.md",
+    "z_config/templates/Template - Creature.md",
+    "z_config/templates/Template - Columns.md",
+    "~Sessions/2025-03-04 Session Note.md",
     "Characters/Anya.md",
     "Events/start test.md",
     "testydo.md",
     "Timeline.md",
     "Events/start test 1.md",
     "z_config/PlayerList.md",
-    "~Sessions/2025-03-04 Session Note.md",
-    "z_config/templates/Template - Creature.md",
-    "z_config/templates/Template - Session.md",
-    "z_config/templates/Template - Columns.md",
     "~Sessions/2025-03-25 Session Note.md",
     "Characters/Dirk Stonejaw.md",
     "Locations/The Slurry Lake.md",
