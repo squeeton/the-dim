@@ -4,7 +4,10 @@ dg-publish: false
 tags:
   - timeline
 icon: FasExclamation
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
+start-date: 2025-03-25
+end-date: 2025-03-26
+aliases: []
 ---
 > [!data-layer]- Metadata
 >
@@ -12,22 +15,42 @@ img: z_config/images/ImagePlaceholder.png
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
 > |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
-> |**Mysteries** |`INPUT[inlineListSuggester(optionQuery("Mysteries"), useLinks(partial)):mysteries]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
+> |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
+> |Aliases|`INPUT[list:aliases]`|
+> |**Description** |`INPUT[textArea:description]`|
+> |**Start date**|`INPUT[datePicker:start-date]`|
+> |**End date**|`INPUT[datePicker:end-date]`|
 # <% tp.file.title %>
-Text description of the event
+> [!infobox | right]+
+> # <% tp.file.title %>
+> `VIEW[{img}][image]`
+> ## Notables
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+
 
 ## Details
-> [!column|3 no-title]
->
->>
->> ### NPCs
->> `VIEW[{npcs}][link]`  
->>  
->
->> ### Locations
->> `VIEW[{locations}][link]`  
->
->> ### Items
->> `VIEW[{items}][link]`  
+
+
+
+
+## Causes
+
+
+
+
+## Repercussions
+
+
+
+
+#### Scratchpad

@@ -38,7 +38,8 @@
     "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "z_config/templates/Template - NPC.md": {
     "iconName": "FasUserAstronaut",

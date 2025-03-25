@@ -2,10 +2,10 @@
   "eventElement": "div",
   "frontMatterKeys": {
     "endDateKey": [
-      "fc-end"
+      "end-date"
     ],
     "startDateKey": [
-      "fc-date"
+      "start-date"
     ],
     "titleKey": [
       "title"
@@ -15,5 +15,6 @@
   "showEventCounter": false,
   "sortDirection": true,
   "timelineTag": "timeline",
-  "maxDigits": "5"
+  "maxDigits": "5",
+  "verticalTimelineDateDisplayFormat": ""
 }

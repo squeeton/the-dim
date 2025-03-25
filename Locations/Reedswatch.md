@@ -4,7 +4,7 @@ dg-publish: false
 tags: 
 icon: FasEarthAmericas
 aliases: []
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 npcs: 
 items: 
 overview: ""
@@ -19,6 +19,9 @@ description: |-
   they are known for the [[Marrow Cane]]
 
   they too rigid like they have a stick up their....
+maptack: 4
+locations:
+  - "[[The Dim]]"
 ---
 
 

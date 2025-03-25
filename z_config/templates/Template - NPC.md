@@ -9,7 +9,7 @@ Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
@@ -43,30 +43,33 @@ starting with childhood In character exploration of setting from perspective of 
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
 # <% tp.file.title %>
+> [!infobox | right]+
+> # <% tp.file.title %>
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+
 > [!column|2 no-title]
 >
 >>
->> ### Overview
->>| Pronunciation | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
 >>  `VIEW[{description}][text]`
+>>  ### Traits
+>> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-# Personality
-> [!column|3 no-title]
->
->>
->> ### Traits
->> `VIEW[{traits}][text(renderMarkdown)]`
->
->> ### Motivations
->> `VIEW[{motivation}][text]`
->
->>### Weaknesses
->> `VIEW[{weakness}][text]`
 
-# Other Details
+#### Scratchpad
+
+
+
+
+
+

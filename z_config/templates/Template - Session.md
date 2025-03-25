@@ -16,34 +16,26 @@ icon: FasBook
 > |**Associated Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Description** |`INPUT[textArea:description]`|
 
-## Session Overview 
- 
-Brief session overview.
+## Raw Notes
+> [!infobox | right]+
+> # <% tp.file.title %>
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+> 
 
-# What's Here
-> [!column|4 no-title]
->
->>
->> ### NPCs
->> `VIEW[{npcs}][link]`
->>  
->
->> ### Groups
->> `VIEW[{groups}][link]`  
->
->> ### Associated Locations
->> `VIEW[{locations}][link]`  
->
->> ### Items
->> `VIEW[{items}][link]`
- 
+-----------------------------------------------------------------------
 
-## What Worked 
- 
-- Small description.
-- 
-- 
-- 
+
+
+
+
 
 ## Last Session
 <%*

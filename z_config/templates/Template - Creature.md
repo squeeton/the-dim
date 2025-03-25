@@ -9,7 +9,7 @@ Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
@@ -22,6 +22,8 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
+defenses: ""
+uses: ""
 ---
 > [!data-layer]- Metadata
 >
@@ -37,6 +39,19 @@ description: ""
 > |**Defenses** |`INPUT[textArea:defenses]`|
 
 # <% tp.file.title %>
+> [!infobox | right]+
+> # <% tp.file.title %>
+> `VIEW[{img}][image]`
+> ## Notables
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+
 > [!column|2 no-title]
 >
 >>
@@ -54,4 +69,4 @@ description: ""
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-# Other Details
+#### Scratchpad

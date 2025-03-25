@@ -14,6 +14,8 @@ pronunciation: ""
 description: ""
 maptack: 0
 groups: []
+locations:
+  - "[[The Dim]]"
 ---
 
 
@@ -28,8 +30,8 @@ groups: []
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |Aliases|`INPUT[list:aliases]`|
-> |Map Tack|`INPUT[number:maptack]`|
 > |**Description** |`INPUT[textArea:description]`|
+> |Map Tack|`INPUT[number:maptack]`|
 # <% tp.file.title %>
 > [!infobox | right]+
 > # <% tp.file.title %>
@@ -46,21 +48,17 @@ groups: []
 > | **Events** | `VIEW[{events}][link]` |
 > 
 
->>### Overview
->>
->> ### Description
->> `VIEW[{description}][text(renderMarkdown)]`
-# What's Here
-> [!column|2 no-title]
->
->>
->> ### NPCs
->> `VIEW[{npcs}][link]`
->>  
->
->
->> ### Items
->> `VIEW[{items}][link]`
 
-## Additional Details
-Placeholder
+> [!column]
+>>  ## Description
+>> `VIEW[{description}][text(renderMarkdown)]`
+>
+>> ## Additional Notes
+>> 
+>> 
+
+#### Scratchpad
+
+
+
+

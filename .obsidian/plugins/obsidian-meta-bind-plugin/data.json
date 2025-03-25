@@ -8,8 +8,6 @@
     "shortName": "Mo"
   },
   "syncInterval": 200,
-  "minSyncInterval": 50,
-  "maxSyncInterval": 1000,
   "enableJs": false,
   "viewFieldDisplayNullAsEmpty": false,
   "enableSyntaxHighlighting": true,
@@ -18,10 +16,16 @@
     {
       "name": "Personality",
       "declaration": "INPUT[inlineSelect(option(#Anxious), option(#Calm), option(#Charming), option(#Cheerful), option(#Childish), option(#Energetic), option(#Enthusiastic), option(#Funny), option(#Gentle), option(#Humble), option(#Impolite), option(#Mature), option(#Optimistic), option(#Pessimistic), option(#Proud), option(#Respectful), option(#Sensitive), option(#Eccentric), option(#Smooth), option(#Articulate), option(#Subtle), option(#Apathetic), option(#Awkward), option(#Caring), option(#Depressed), option(#Dull), option(#Humorless), option(#Incoherent), option(#Listless), option(#Overt), option(#Repulsive), option(#Savvy), option(#Thick-skinned), option(#Wrathful), option(#Cold), option(#Naïve))]"
+    },
+    {
+      "name": "Type",
+      "declaration": "INPUT[inlineSelect(\noption(Weapon), \noption(Tool), \noption(Consumable), \noption(Treasure), \noption(Quest), \noption(Food)\n)]"
     }
   ],
   "buttonTemplates": [],
   "excludedFolders": [
     "templates"
-  ]
+  ],
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000
 }

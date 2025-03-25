@@ -2,7 +2,7 @@
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "source",
   "foldHeading": true,
   "showIndentGuide": false
 }

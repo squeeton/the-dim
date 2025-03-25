@@ -4,7 +4,7 @@ dg-publish: false
 tags: 
 icon: FasEarthAmericas
 aliases: []
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 npcs: 
 items: 
 overview: ""

@@ -14,6 +14,8 @@ pronunciation: ""
 description: "a fishing community settled on a  tethered group of massive lily pads and wreckage in the middle of Crescent Lake. Folks from Hardmire say people from Rat King can't smell their own stink. "
 maptack: 5
 groups: []
+locations:
+  - "[[The Dim]]"
 ---
 
 

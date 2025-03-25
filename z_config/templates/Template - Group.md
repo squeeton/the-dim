@@ -33,17 +33,30 @@ npcs: []
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
-> |**Members** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
-> |**Associated Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
-> |**Mysteries** | `INPUT[inlineListSuggester(optionQuery("Mysteries"), useLinks(partial)):mysteries]`|
-> |**Pronunciation**|`INPUT[text:pronunciation]`|
-> |**Aliases**|`INPUT[list:aliases]`|
-> |**Traits**| `INPUT[Personality][inlineListSuggester:traits]`|
+> |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
+> |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
+> |Aliases|`INPUT[list:aliases]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Philosophy** |`INPUT[textArea:philosophy]`|
 > |**Methods** |`INPUT[textArea:methods]`|
 # <% tp.file.title %>
+> [!infobox | right]+
+> # <% tp.file.title %>
+> `VIEW[{img}][image]`
+> ## Notables
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+
 > [!column|2 no-title]
 >
 >>| Pronunciation | Also Known AS|
@@ -55,21 +68,6 @@ npcs: []
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-# Additional Information
-> [!column|3 no-title]
->
->>
->> ### Members
->> `VIEW[{npcs}][link]`  
->>  
->
->> ### Locations
->> `VIEW[{locations}][link]`  
->
->> ### Items
->> `VIEW[{items}][link]`  
->
-
 # Details
 > [!column|2 no-title]
 >
@@ -80,4 +78,19 @@ npcs: []
 >
 >> ### Methods
 >> `VIEW[{methods}][text]`
-# Free Text
+#### Scratchpad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

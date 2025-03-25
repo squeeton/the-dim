@@ -4,7 +4,7 @@ dg-publish: false
 tags: 
 icon: FasEarthAmericas
 aliases: []
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 npcs: 
 items: 
 overview: ""
@@ -19,6 +19,9 @@ description: |-
 
   derogitory term is a
   tadpoles
+maptack: 3
+locations:
+  - "[[The Dim]]"
 ---
 
 

@@ -5,7 +5,7 @@ tags:
 icon: FasEarthAmericas
 aliases:
   - home
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 npcs: 
 items:
   - "[[Hardmoss]]"
@@ -36,6 +36,8 @@ maptack: 1
 groups:
   - "[[The Party]]"
   - "[[The Lyre]]"
+locations:
+  - "[[The Dim]]"
 ---
 
 

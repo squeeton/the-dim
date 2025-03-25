@@ -4,7 +4,7 @@ dg-publish: false
 tags: 
 icon: FasEarthAmericas
 aliases: []
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 npcs: 
 items: 
 overview: ""
@@ -19,6 +19,9 @@ description: |-
 
   they are assumed to be lazy cuse the land does the work
   and people call them wetfoots
+maptack: 2
+locations:
+  - "[[The Dim]]"
 ---
 
 

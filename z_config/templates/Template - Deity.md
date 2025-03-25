@@ -4,9 +4,37 @@ dg-publish: false
 tags:
   - Category/Deity
 icon: FasSpaghettiMonsterFlying
-aliases:
+aliases: 
+img: z_config/images/missing.jpg
 ---
+
+> [!data-layer]- Metadata
+>
+> |                                       |                                  |
+>| ----- | ----- |
+>| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
+> |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
+> |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
+> |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
+> |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
+> |Aliases|`INPUT[list:aliases]`|
+> |Map Tack|`INPUT[number:maptack]`|
+> |**Description** |`INPUT[textArea:description]`|
 # <% tp.file.title %>
+> [!infobox | right]+
+> # <% tp.file.title %>
+> `VIEW[{img}][image]`
+> ## Notables
+> |  Information | Links |
+> | --- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
 
 Notes
 
@@ -50,3 +78,4 @@ Placeholder
 ## Additional Details
 Placeholder
 
+#### Scratchpad
