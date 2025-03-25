@@ -29,21 +29,35 @@ description: |-
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
 > |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
+> |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
+> |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
+> |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |Aliases|`INPUT[list:aliases]`|
-> |Pronunciation|`INPUT[text:pronunciation]`|
+> |Map Tack|`INPUT[number:maptack]`|
 > |**Description** |`INPUT[textArea:description]`|
 # The Slurry Lake
-> [!column|2 no-title]
+> [!infobox | right]+
+> # <% tp.file.title %>
+> `VIEW[{img}][image]`
+> ## Notables
+> | Description |  Links |
+> | ---- | --- |
+> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
+> | **NPCs** | `VIEW[{npcs}][link]` |
+> | **Items** | `VIEW[{items}][link]` |
+> | **Locations** | `VIEW[{locations}][link]` |
+> | **Groups** | `VIEW[{groups}][link]` |
+> | **Events** | `VIEW[{events}][link]` |
+> 
+
 >>### Overview
->>| Pronunciation | Also Known AS|
+>>| Map Tack | Also Known AS|
 >>| ----- | ----- |
->>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
+>>|`VIEW[{maptack}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>
 >> ### Description
 >> `VIEW[{description}][text(renderMarkdown)]`
->>  
->
->>`VIEW[{img}][image]`
 # What's Here
 > [!column|2 no-title]
 >
@@ -57,4 +71,4 @@ description: |-
 >> `VIEW[{items}][link]`
 
 ## Additional Details
-
+Placeholder

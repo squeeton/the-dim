@@ -6,6 +6,8 @@ tags:
 icon: FasBook
 groups:
   - "[[The Party]]"
+npcs:
+  - "[[Mother Ybah]]"
 ---
 > [!data-layer]- Metadata
 >
@@ -75,17 +77,7 @@ religions arent really a thing anymore.
 - 
 
 ## Last Session
-<%*
-// Set folder you want to get latest file for here
-const folder = "~Sessions";
-// Get all files in that folder, including nested folders
-const filesInFolder = app.vault.getMarkdownFiles().filter(file => file.path.startsWith(folder));
-// Sort files by ctime
-filesInFolder.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
-// Get basename of latest TFile to be used in link
-const latestFileName = filesInFolder[1].basename;
-_%>
-[[<% latestFileName %>]]
+
 
 
 

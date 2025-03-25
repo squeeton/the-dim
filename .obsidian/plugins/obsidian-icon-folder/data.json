@@ -66,10 +66,6 @@
   "~Sessions/2025-03-04 Session Note.md": {
     "iconName": "FasBook"
   },
-  "Characters/Kirk.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "NPCs/Mother Ybah.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
@@ -124,5 +120,16 @@
   "Characters/Darius Ravenscar.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "Characters/Dirk Stonejaw.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Great Mire Beasts.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Rat King.md": {
+    "iconName": "FasEarthAmericas"
   }
 }

@@ -30,7 +30,7 @@ npcs:
   - "[[Darius Ravenscar]]"
   - "[[Ajax]]"
   - "[[Anya]]"
-  - "[[Kirk]]"
+  - "[[Dirk Stonejaw]]"
 ---
 > [!data-layer]- Metadata
 >

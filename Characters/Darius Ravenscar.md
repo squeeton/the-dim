@@ -15,8 +15,7 @@ img: z_config/images/Darius Ravenscar.png
 arcana: []
 gnosis: 1
 items: []
-locations:
-  - "[[Hardmire]]"
+locations: []
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -40,7 +39,7 @@ description: ""
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Squee
+# Darius Ravenscar
 > [!column|2 no-title]
 >
 >>

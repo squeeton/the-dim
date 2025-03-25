@@ -4,21 +4,16 @@ dg-publish: false
 tags: 
 icon: FasEarthAmericas
 aliases: []
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 npcs: 
 items: 
 overview: ""
 cssclasses:
   - wide-table
 pronunciation: ""
-description: |-
-  was an outpost that became a settlement
-  buildings are out on the marsh built on top of the [[Marrow Cane]] as stilts
-  eventually grew into a larger settlement
-
-  they are known for the [[Marrow Cane]]
-
-  they too rigid like they have a stick up their....
+description: "a fishing community settled on a  tethered group of massive lily pads and wreckage in the middle of Crescent Lake. Folks from Hardmire say people from Rat King can't smell their own stink. "
+maptack: 5
+groups: []
 ---
 
 
@@ -35,9 +30,9 @@ description: |-
 > |Aliases|`INPUT[list:aliases]`|
 > |Map Tack|`INPUT[number:maptack]`|
 > |**Description** |`INPUT[textArea:description]`|
-# Reedswatch
+# Rat King
 > [!infobox | right]+
-> # <% tp.file.title %>
+> # Rat King
 > `VIEW[{img}][image]`
 > ## Notables
 > | Description |  Links |

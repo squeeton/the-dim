@@ -4,13 +4,12 @@ dg-publish: false
 tags: 
 icon: FasUserAstronaut
 iconColor: 
-aliases:
-  - Jon
+aliases: []
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/Ajax.jpg
+img: z_config/images/dirk stonejaw.png
 arcana: []
 gnosis: 1
 items: []
@@ -38,7 +37,7 @@ description: ""
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Ajax
+# Dirk Stonejaw
 > [!column|2 no-title]
 >
 >>

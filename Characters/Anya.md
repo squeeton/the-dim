@@ -29,7 +29,7 @@ description: ""
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
-> |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("./Locations"), useLinks(partial)):locations]`|
+> |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Pronunciation**|`INPUT[text:pronunciation]`|
 > |**Aliases**|`INPUT[list:aliases]`|
@@ -38,7 +38,7 @@ description: ""
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Squee
+# Anya
 > [!column|2 no-title]
 >
 >>

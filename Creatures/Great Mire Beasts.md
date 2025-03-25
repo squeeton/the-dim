@@ -21,23 +21,24 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
+description: Alligator-like beasts that create lairs in the tendrils of Towers. Their wiggling and burrowing between the tendrils releases spores that attach to the Mire Beasts and eventually drive them mad. When their rage ends, a new Tower grows from their corpse.
+uses: When their rage ends, a new Tower grows from their corpse.
+defenses: "Alligator-like beasts "
 ---
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
-> |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("./Locations"), useLinks(partial)):locations]`|
-> |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
+> |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Pronunciation**|`INPUT[text:pronunciation]`|
 > |**Aliases**|`INPUT[list:aliases]`|
 > |**Traits**| `INPUT[Personality][inlineListSuggester:traits]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Motivations** |`INPUT[textArea:motivation]`|
-> |**Weaknesses** |`INPUT[textArea:weakness]`|
+> |**Uses** |`INPUT[textArea:uses]`|
+> |**Defenses** |`INPUT[textArea:defenses]`|
 
-# Squee
+# Great Mire Beasts
 > [!column|2 no-title]
 >
 >>
@@ -47,24 +48,12 @@ description: ""
 >>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
 >>  `VIEW[{description}][text]`
+>>### Uses
+>>  `VIEW[{uses}][text]`
+>>### Defenses
+>>  `VIEW[{defenses}][text]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
-
-# Personality
-> [!column|4 no-title]
->
->>
->> ### Traits
->> `VIEW[{traits}][text(renderMarkdown)]`
->
->> ### Motivations
->> `VIEW[{motivation}][text]`
->
->>### Weaknesses
->> `VIEW[{weakness}][text]`
->
->>### Npcs
->> `VIEW[{npcs}][link]` 
 
 # Other Details
