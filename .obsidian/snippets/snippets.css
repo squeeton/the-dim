@@ -1,0 +1,8 @@
+.custom-timeline {
+    text-decoration: unset !important;
+    color: rebeccapurple !important;
+  }
+
+  .timeline::after {
+    background-color: #38304d !important;
+  }

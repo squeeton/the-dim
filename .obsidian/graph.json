@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-path: z_config  -file:awakened",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.513020833333333,
+  "repelStrength": 14.9479166666667,
+  "linkStrength": 1,
+  "linkDistance": 234,
+  "scale": 0.5087618855792695,
+  "close": true
+}

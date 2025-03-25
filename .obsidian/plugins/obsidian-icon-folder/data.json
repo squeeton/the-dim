@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBook",
+      "FasUserAstronaut",
+      "FasExclamation",
+      "FasEarthAmericas",
+      "FasWandSparkles"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "/Mysteries",
+        "icon": "LiSparkles",
+        "for": "everything",
+        "order": 0
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "z_config/templates/Template - NPC.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "z_config/templates/Template - Location.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "z_config/templates/Template - Deity.md": {
+    "iconName": "FasSpaghettiMonsterFlying"
+  },
+  "z_config/templates/Template - Group.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "z_config/templates/Template - Item.md": {
+    "iconName": "FasGem"
+  },
+  "z_config/templates/Template - Session.md": {
+    "iconName": "FasBook"
+  },
+  "z_config/templates/Template - Event.md": {
+    "iconName": "FasExclamation"
+  },
+  "~Sessions/2025-03-04 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Characters/Kirk.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Mother Ybah.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Hardmire.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Groups/The Lyre.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "z_config/templates/Template - Creature.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Thorn Lemurs.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Mud Slithers.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Glowckos.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/The Dim.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/The Slurry Lake.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Hopswell.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Reedswatch.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Characters/Anya.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Party.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Characters/Ajax.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Characters/Darius Ravenscar.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  }
+}

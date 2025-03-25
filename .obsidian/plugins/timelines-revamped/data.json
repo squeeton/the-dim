@@ -1,0 +1,19 @@
+{
+  "eventElement": "div",
+  "frontMatterKeys": {
+    "endDateKey": [
+      "fc-end"
+    ],
+    "startDateKey": [
+      "fc-date"
+    ],
+    "titleKey": [
+      "title"
+    ]
+  },
+  "notePreviewOnHover": true,
+  "showEventCounter": false,
+  "sortDirection": true,
+  "timelineTag": "timeline",
+  "maxDigits": "5"
+}

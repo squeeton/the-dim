@@ -1,0 +1,35 @@
+{
+  "callouts": {
+    "custom": [
+      "data-layer"
+    ],
+    "settings": {
+      "data-layer": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-list"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "84, 84, 84"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

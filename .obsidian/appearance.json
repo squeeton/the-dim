@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "accentColor": "#9484a4",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "WYRD Headings",
+    "Highlighter Headings",
+    "snippets"
+  ]
+}
