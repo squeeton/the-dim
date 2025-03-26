@@ -4,7 +4,7 @@ tags:
   - SessionJournals
 icon: FasBook
 aliases: []
-session: 
+session: 1
 ---
 > [!data-layer]- Metadata
 >
@@ -23,7 +23,7 @@ session:
 
 ## Raw Notes
 > [!infobox | right]+
-> # <% tp.file.title %>
+> # 2025-03-26 Session Note
 > |  Information | Links |
 > | --- | --- |
 > | **Session** | `VIEW[{session}][text]` |
@@ -43,17 +43,7 @@ session:
 
 
 ## Last Session
-<%*
-// Set folder you want to get latest file for here
-const folder = "~Sessions";
-// Get all files in that folder, including nested folders
-const filesInFolder = app.vault.getMarkdownFiles().filter(file => file.path.startsWith(folder));
-// Sort files by ctime
-filesInFolder.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
-// Get basename of latest TFile to be used in link
-const latestFileName = filesInFolder[1].basename;
-_%>
-[[<% latestFileName %>]]
+[[2025-03-04 Session Note]]
 
 
 

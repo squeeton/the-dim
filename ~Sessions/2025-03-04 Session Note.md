@@ -7,6 +7,7 @@ groups:
   - "[[The Party]]"
 npcs:
   - "[[Mother Ybah]]"
+session: 0
 ---
 > [!data-layer]- Metadata
 >
@@ -18,6 +19,7 @@ npcs:
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Associated Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Description** |`INPUT[textArea:description]`|
+> | **Session** |`INPUT[number:session]`|
 
 ## Session Overview 
  

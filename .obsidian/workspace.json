@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_config/templates/Template - Event.md",
+                "file": "Groups/The Party.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Event"
+              "title": "The Party"
+            }
+          },
+          {
+            "id": "d64f4be2cdb4c611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~Sessions/2025-03-26 Session Note.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-26 Session Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,34 +198,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d38efcb9f9bd34fc",
+  "active": "d64f4be2cdb4c611",
   "lastOpenFiles": [
-    "z_config/templates/Template - NPC.md",
+    "z_config/templates/Template - Session.md",
+    "~Sessions/2025-03-04 Session Note.md",
+    "~Sessions/2025-03-26 Session Note.md",
+    "z_config/templates/Template - Location.md",
+    "Groups/The Party.md",
+    "Locations/Hardmire.md",
+    "Locations/Hopswell.md",
+    "Locations/Reedswatch.md",
+    "Locations/The Dim.md",
+    "Locations/The Slurry Lake.md",
+    "NPCs/Mother Ybah.md",
     "z_config/templates/Template - Event.md",
+    "z_config/templates/Template - NPC.md",
     "z_config/templates/Template - Deity.md",
     "z_config/templates/Template - Group.md",
     "z_config/templates/Template - Item.md",
-    "z_config/templates/Template - Session.md",
-    "~Sessions/2025-03-04 Session Note.md",
-    "NPCs/Mother Ybah.md",
     "Characters/Ajax.md",
     "Characters/Anya.md",
     "Characters/Dirk Stonejaw.md",
     "Characters/Darius Ravenscar.md",
     "z_config/templates/Template - Creature.md",
-    "z_config/templates/Template - Location.md",
     "z_config/templates/Template - Columns.md",
     "Events/start test.md",
     "testydo.md",
     "Timeline.md",
     "Events/start test 1.md",
-    "z_config/PlayerList.md",
-    "~Sessions/2025-03-25 Session Note.md",
-    "Locations/The Slurry Lake.md",
-    "Locations/Reedswatch.md",
-    "Locations/Rat King.md",
-    "Locations/Hopswell.md",
-    "Locations/Hardmire.md",
     "z_config/images/missing.jpg",
     "z_config/images/dirk stonejaw.png",
     "z_config/images/anya.PNG",
