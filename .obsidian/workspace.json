@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Mother Ybah.md",
-                "mode": "source",
+                "file": "z_config/templates/Template - Event.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mother Ybah"
+              "title": "Template - Event"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Mother Ybah.md",
+                "file": "z_config/templates/Template - Event.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mother Ybah"
+              "title": "Outline of Template - Event"
             }
           },
           {
@@ -186,20 +186,20 @@
   "active": "d38efcb9f9bd34fc",
   "lastOpenFiles": [
     "z_config/templates/Template - NPC.md",
+    "z_config/templates/Template - Event.md",
+    "z_config/templates/Template - Deity.md",
+    "z_config/templates/Template - Group.md",
+    "z_config/templates/Template - Item.md",
+    "z_config/templates/Template - Session.md",
+    "~Sessions/2025-03-04 Session Note.md",
     "NPCs/Mother Ybah.md",
     "Characters/Ajax.md",
     "Characters/Anya.md",
     "Characters/Dirk Stonejaw.md",
     "Characters/Darius Ravenscar.md",
     "z_config/templates/Template - Creature.md",
-    "z_config/templates/Template - Deity.md",
-    "z_config/templates/Template - Event.md",
-    "z_config/templates/Template - Group.md",
-    "z_config/templates/Template - Item.md",
     "z_config/templates/Template - Location.md",
-    "z_config/templates/Template - Session.md",
     "z_config/templates/Template - Columns.md",
-    "~Sessions/2025-03-04 Session Note.md",
     "Events/start test.md",
     "testydo.md",
     "Timeline.md",
