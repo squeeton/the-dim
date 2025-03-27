@@ -1,11 +1,14 @@
 ---
-dg-publish: false
-tags:
-  - SessionJournals
-icon: FasBook
+img: z_config/images/ImagePlaceholder.png
+uses: ""
+description: ""
+pronunciation: ""
+mysteries: []
+weight: ""
+price: ""
 aliases: []
-session: 
 ---
+
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -19,41 +22,41 @@ session:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> | **Session** |`INPUT[number:session]`|
-
+> |**Uses** |`INPUT[textArea:uses]`|
+> |**Weight** |`INPUT[text:weight]`|
+> |**Price** |`INPUT[text:price]`|
+> |**Type** |`INPUT[Type][inlineListSuggester:type]`|
+# Gray Beards
 > [!infobox | right]+
-> # <% tp.file.title %>
+> # Gray Beards
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
-> | **Session** | `VIEW[{session}][text]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
-## Raw Notes
+
+
+> [!column|2 no-title]
+>> ### Description
+>> `VIEW[{description}][text(renderMarkdown)]`
+>>
+>> ### Uses
+>> `VIEW[{uses}][text(renderMarkdown)]`
+>
+>> |  Detail | Info |
+>> | --- | --- |
+>> | **Weight** | `VIEW[{weight}][link]` |
+>> | **Price** | `VIEW[{price}][link]` |
+>> | **Type** | `VIEW[{type}][link]` |
+
+
+#### Scratchpad
 
 
 
-
-
-
-
-## Last Session
-<%*
-// Set folder you want to get latest file for here
-const folder = "~Sessions";
-// Get all files in that folder, including nested folders
-const filesInFolder = app.vault.getMarkdownFiles().filter(file => file.path.startsWith(folder));
-// Sort files by ctime
-filesInFolder.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
-// Get basename of latest TFile to be used in link
-const latestFileName = filesInFolder[1].basename;
-_%>
-[[<% latestFileName %>]]
-
-
-
-
+Giant mushrooms that canopy the entirety of [[The Dim]].

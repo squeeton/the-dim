@@ -4,7 +4,9 @@ dg-publish: false
 tags: 
 icon: FasUserAstronaut
 iconColor: 
-aliases: []
+aliases:
+  - Dirk
+  - Kirk
 Personality: []
 Nimbus: ""
 Path: none

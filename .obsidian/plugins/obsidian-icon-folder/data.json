@@ -135,5 +135,26 @@
   },
   "~Sessions/2025-03-26 Session Note.md": {
     "iconName": "FasBook"
+  },
+  "NPCs/Arax.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Lost Ones.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/The Mire.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/The Must.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Events/Sporefall.md": {
+    "iconName": "FasExclamation"
+  },
+  "Creatures/Shorefeaster.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }

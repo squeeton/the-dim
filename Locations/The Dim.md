@@ -64,4 +64,4 @@ description: This is like the continent. this is everything under the mushroom c
 >> `VIEW[{items}][link]`
 
 ## Additional Details
-Placeholder
+the area all under the giant mushrooms. basically the realm

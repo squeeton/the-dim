@@ -7,6 +7,7 @@ iconColor:
 aliases:
   - Me
   - Squee
+  - Darius
 Personality: []
 Nimbus: ""
 Path: none
@@ -76,3 +77,4 @@ Childhood
 Teens
 
 Level 1
+21 years old

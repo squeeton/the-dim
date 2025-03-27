@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38efcb9f9bd34fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/The Party.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Party"
-            }
-          },
-          {
-            "id": "d64f4be2cdb4c611",
+            "id": "3f4c73d6241459ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "~Sessions/2025-03-26 Session Note.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2025-03-26 Session Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "~Sessions/2025-03-26 Session Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-03-26 Session Note"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things/Frost Wart.md",
+                "file": "~Sessions/2025-03-26 Session Note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Frost Wart"
+              "title": "Outgoing links from 2025-03-26 Session Note"
             }
           },
           {
@@ -198,34 +184,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d64f4be2cdb4c611",
+  "active": "3f4c73d6241459ef",
   "lastOpenFiles": [
+    "NPCs/Mother Ybah.md",
+    "~Sessions/2025-03-26 Session Note.md",
+    "Characters/Dirk Stonejaw.md",
+    "Characters/Darius Ravenscar.md",
+    "Locations/The Must.md",
+    "Events/Sporefall.md",
+    "Creatures/Shorefeaster.md",
+    "Things/Gray Beards.md",
+    "Locations/Hardmire.md",
+    "Locations/The Slurry Lake.md",
+    "Locations/The Mire.md",
+    "z_config/templates/Template - Location.md",
+    "Groups/The Lyre.md",
+    "Locations/The Dim.md",
+    "Groups/Lost Ones.md",
+    "NPCs/Arax.md",
+    "Locations/Reedswatch.md",
     "z_config/templates/Template - Session.md",
     "~Sessions/2025-03-04 Session Note.md",
-    "~Sessions/2025-03-26 Session Note.md",
-    "z_config/templates/Template - Location.md",
     "Groups/The Party.md",
-    "Locations/Hardmire.md",
     "Locations/Hopswell.md",
-    "Locations/Reedswatch.md",
-    "Locations/The Dim.md",
-    "Locations/The Slurry Lake.md",
-    "NPCs/Mother Ybah.md",
     "z_config/templates/Template - Event.md",
     "z_config/templates/Template - NPC.md",
     "z_config/templates/Template - Deity.md",
     "z_config/templates/Template - Group.md",
     "z_config/templates/Template - Item.md",
-    "Characters/Ajax.md",
-    "Characters/Anya.md",
-    "Characters/Dirk Stonejaw.md",
-    "Characters/Darius Ravenscar.md",
-    "z_config/templates/Template - Creature.md",
-    "z_config/templates/Template - Columns.md",
-    "Events/start test.md",
-    "testydo.md",
-    "Timeline.md",
-    "Events/start test 1.md",
     "z_config/images/missing.jpg",
     "z_config/images/dirk stonejaw.png",
     "z_config/images/anya.PNG",

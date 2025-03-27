@@ -1,11 +1,24 @@
 ---
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags:
-  - SessionJournals
-icon: FasBook
+tags: 
+icon: FasEarthAmericas
 aliases: []
-session: 
+img: z_config/images/missing.jpg
+npcs: 
+items: 
+overview: ""
+cssclasses:
+  - wide-table
+pronunciation: ""
+description: ""
+maptack: 0
+groups: []
+locations:
+  - "[[The Dim]]"
 ---
+
+
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -19,41 +32,35 @@ session:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> | **Session** |`INPUT[number:session]`|
-
+> |Map Tack|`INPUT[number:maptack]`|
+# The Mire
 > [!infobox | right]+
-> # <% tp.file.title %>
+> # The Mire
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
-> | **Session** | `VIEW[{session}][text]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
+> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
-## Raw Notes
+
+
+> [!column]
+>>  ## Description
+>> `VIEW[{description}][text(renderMarkdown)]`
+>
+>> ## Additional Notes
+>> 
+>> 
+
+#### Scratchpad
 
 
 
 
-
-
-
-## Last Session
-<%*
-// Set folder you want to get latest file for here
-const folder = "~Sessions";
-// Get all files in that folder, including nested folders
-const filesInFolder = app.vault.getMarkdownFiles().filter(file => file.path.startsWith(folder));
-// Sort files by ctime
-filesInFolder.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
-// Get basename of latest TFile to be used in link
-const latestFileName = filesInFolder[1].basename;
-_%>
-[[<% latestFileName %>]]
-
-
-
-
+described the coast. the mire is the ocean. the sun reaches here. 

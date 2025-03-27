@@ -15,7 +15,7 @@
   "inputFieldTemplates": [
     {
       "name": "Personality",
-      "declaration": "INPUT[inlineSelect(option(#Anxious), option(#Calm), option(#Charming), option(#Cheerful), option(#Childish), option(#Energetic), option(#Enthusiastic), option(#Funny), option(#Gentle), option(#Humble), option(#Impolite), option(#Mature), option(#Optimistic), option(#Pessimistic), option(#Proud), option(#Respectful), option(#Sensitive), option(#Eccentric), option(#Smooth), option(#Articulate), option(#Subtle), option(#Apathetic), option(#Awkward), option(#Caring), option(#Depressed), option(#Dull), option(#Humorless), option(#Incoherent), option(#Listless), option(#Overt), option(#Repulsive), option(#Savvy), option(#Thick-skinned), option(#Wrathful), option(#Cold), option(#Naïve))]"
+      "declaration": "INPUT[inlineSelect(\noption(#Anxious), \noption(#Calm), \noption(#Charming), \noption(#Cheerful), \noption(#Childish), \noption(#Energetic), \noption(#Enthusiastic), \noption(#Funny), \noption(#Gentle), \noption(#Humble), \noption(#Impolite), \noption(#Mature), \noption(#Optimistic), \noption(#Pessimistic), \noption(#Proud), \noption(#Respectful), \noption(#Sensitive), \noption(#Eccentric), \noption(#Smooth), \noption(#Articulate), \noption(#Subtle), \noption(#Apathetic), \noption(#Awkward), \noption(#Caring), \noption(#Depressed), \noption(#Dull), \noption(#Humorless), \noption(#Incoherent), \noption(#Listless), \noption(#Overt), \noption(#Repulsive), \noption(#Savvy), \noption(#Thick-skinned), \noption(#Wrathful), \noption(#Cold), \noption(#Naïve)\n)]"
     },
     {
       "name": "Type",

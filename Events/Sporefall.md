@@ -1,10 +1,15 @@
 ---
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags:
-  - SessionJournals
-icon: FasBook
+tags: 
+icon: FasExclamation
+img: z_config/images/missing.jpg
+start-date: 2025-03-25
+end-date: 2025-03-26
 aliases: []
-session: 
+repercussions: ""
+causes: ""
+description: ""
 ---
 > [!data-layer]- Metadata
 >
@@ -19,41 +24,41 @@ session:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> | **Session** |`INPUT[number:session]`|
-
+> |**Causes** |`INPUT[textArea:causes]`|
+> |**Repercussions** |`INPUT[textArea:repercussions]`|
+> |**Start date**|`INPUT[datePicker:start-date]`|
+> |**End date**|`INPUT[datePicker:end-date]`|
+# Sporefall
 > [!infobox | right]+
-> # <% tp.file.title %>
+> # Sporefall
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
-> | **Session** | `VIEW[{session}][text]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
-## Raw Notes
+
+
+## Description
+>>  `VIEW[{description}][text]`
+
+## Causes
+
+>>  `VIEW[{causes}][text]`
+
+
+## Repercussions
+>>  `VIEW[{repercussions}][text]`
+
+#### Scratchpad
 
 
 
 
 
-
-
-## Last Session
-<%*
-// Set folder you want to get latest file for here
-const folder = "~Sessions";
-// Get all files in that folder, including nested folders
-const filesInFolder = app.vault.getMarkdownFiles().filter(file => file.path.startsWith(folder));
-// Sort files by ctime
-filesInFolder.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
-// Get basename of latest TFile to be used in link
-const latestFileName = filesInFolder[1].basename;
-_%>
-[[<% latestFileName %>]]
-
-
-
-
+the fins of the [[Gray Beards]] get jostled and makes a heavy sticky fluid rain of spores.
+its this sticky substance that envelops a seed. it can stick to you and eventually drown you 

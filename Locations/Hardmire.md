@@ -90,4 +90,4 @@ locations:
 >> `VIEW[{items}][link]`
 
 ## Additional Details
-Placeholder
+population of 26 people

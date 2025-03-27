@@ -5,35 +5,28 @@ tags:
 icon: FasUserAstronaut
 iconColor: 
 aliases:
-  - Ybah
+  - " "
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/missing.jpg
+img: z_config/images/ImagePlaceholder.png
 arcana: []
-gnosis: 1
-items:
-  - "[[Everpot]]"
-locations:
-  - "[[Hardmire]]"
-pronunciation: " Mother - Yah-Bah"
-motivation: |-
-  She is in charge of the children
-  she wants to provide the culture and ethos for the children
+gnosis: 
+items: []
+locations: []
+pronunciation: " "
+motivation: ""
 weakness: ""
 nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
-traits:
-  - "#Caring"
-description: |-
-  elderly woman keeping the Everpot going.
-  takes care of the kids and tells stories about The Dim.
-  shes in charge of the children's education.
-  The main danger is the wildlife.
-
-  in charge of the hearth.
+traits: []
+description: ""
+philosophy: ""
+methods: ""
+mysteries: []
+npcs: []
 ---
 > [!data-layer]- Metadata
 >
@@ -48,12 +41,13 @@ description: |-
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Motivations** |`INPUT[textArea:motivation]`|
-> |**Weaknesses** |`INPUT[textArea:weakness]`|
-
-# Mother Ybah
+> |**Philosophy** |`INPUT[textArea:philosophy]`|
+> |**Methods** |`INPUT[textArea:methods]`|
+# Lost Ones
 > [!infobox | right]+
-> # Mother Ybah
+> # Lost Ones
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -65,16 +59,25 @@ description: |-
 
 > [!column|2 no-title]
 >
+>>| Pronunciation | Also Known AS|
+>>| ----- | ----- |
 >>
->>### Description
+>> ### Description
 >>  `VIEW[{description}][text]`
->>  ### Traits
->> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-
+# Details
+> [!column|2 no-title]
+>
+>>
+>> ### Philosophy
+>> `VIEW[{philosophy}][text]`
+>>  
+>
+>> ### Methods
+>> `VIEW[{methods}][text]`
 #### Scratchpad
 
 
@@ -82,9 +85,23 @@ description: |-
 
 
 
-skinny but hard womanin her 80s
-long white hair, tied back with scarf
-one eye missing, no fucks given about it
 
-has lots of busy tasks
-her main time is telling stories keeping the kids out of trouble or their parents business
+
+
+
+
+
+
+
+
+they walk around [[The Dim]] once beings of great power but lost it. they can change shape, but they have golden eyes. they get small details wrong. 
+best to forget the lost. they dont like the living. they stay in the shadows and muck. they stay away from the way lights.
+assumed jealous of the living.
+
+used to be gods. they used to be worshipped. 
+
+existence is questionable
+
+they are still immortal but lost their minds. they have gone mad.
+went mad from lack of worship
+
