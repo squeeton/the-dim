@@ -45,7 +45,7 @@ Brief session overview.
 [[Mother Ybah]] lives in our hometowm [[Hardmire]] that exists with [[The Dim]]
 
 by abolishing the written word, they removed a lot of evil. they destroyed money as well to stop greed.
-magic existed as the weave. the weave has been so throuroughly  violated it has become [[The Vvierd]] it now has very negative connotations. 
+magic existed as the weave. the weave has been so throuroughly  violated it has become [[Vveird]] it now has very negative connotations. 
 
 
 Worldbuilding

@@ -4,6 +4,8 @@ uses: ""
 description: ""
 pronunciation: ""
 mysteries: []
+aliases:
+  - Vveird
 ---
 
 > [!data-layer]- Metadata
@@ -27,9 +29,7 @@ mysteries: []
 
 
 ## Overview
-**Price**: Placeholder
+This is magic. 
+never to be trusted. cursed.
 
-**Weight**: Placeholder
-
-
-
+magic people are called [[The Vveird]]
