@@ -1,6 +1,6 @@
 # Players
 ```dataview
-LIST 
+TABLE perception AS "Passive Perception"
 FROM "Characters"
 ```
 
@@ -36,5 +36,6 @@ FROM "Characters"
 >> # Sessions
 >> ```dataview
 >> LIST from "~Sessions"
+>> LIMIT 10
 >> SORT file.name DESC
 >> ```

@@ -23,12 +23,14 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
+perception: 9
 ---
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
+> |**Passive Perception**|`INPUT[number:perception]`|
 > |**Can be Found In** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Pronunciation**|`INPUT[text:pronunciation]`|

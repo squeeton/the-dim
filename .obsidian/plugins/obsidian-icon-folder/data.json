@@ -187,5 +187,22 @@
   "NPCs/Bask.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2025-04-09 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Name.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Shale.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/The Pile.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Boil's Hut.md": {
+    "iconName": "FasEarthAmericas"
   }
 }

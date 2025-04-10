@@ -1,7 +1,13 @@
 ---
 img: z_config/images/ImagePlaceholder.png
-uses: ""
-description: ""
+uses: |-
+  its just pretty
+  decorative.
+description: |-
+  yellow flower that hangs upside down
+  flows out slightly has fixed things on the inside
+
+  faintly glowing on the inside
 pronunciation: ""
 mysteries: []
 ---
@@ -15,7 +21,7 @@ mysteries: []
 > |**Aliases**|`INPUT[list:aliases]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Uses** |`INPUT[textArea:uses]`|
-# flower
+# Glimmerbell
 > [!column|2 no-title]
 >> ### Description
 >> `VIEW[{description}][text(renderMarkdown)]`
@@ -27,11 +33,6 @@ mysteries: []
 
 
 ## Overview
-**Price**: Placeholder
-
-**Weight**: Placeholder
-
-
 
 yellow flower that hangs upside down
 flows out slightly has fixed things on the inside
