@@ -9,7 +9,7 @@ Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/missing.jpg
+img: z_config/images/Boil.png
 arcana: []
 gnosis: 1
 items: []
@@ -21,7 +21,7 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
+description: "A small man creature with sharp teeth and gangly limbs. He seems to know a lot about [[Vveird]]. He told us he would teach us to control it if we took his pet pig on a walk. "
 ---
 > [!data-layer]- Metadata
 >
@@ -55,7 +55,7 @@ description: ""
 >
 >>
 >>### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >>  ### Traits
 >> `VIEW[{traits}][text(renderMarkdown)]`
 >

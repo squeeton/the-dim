@@ -67,7 +67,7 @@ description: |-
 >
 >>
 >>### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >>  ### Traits
 >> `VIEW[{traits}][text(renderMarkdown)]`
 >

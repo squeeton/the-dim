@@ -54,7 +54,7 @@ npcs:
 >>| ----- | ----- |
 >>
 >> ### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
@@ -79,9 +79,9 @@ npcs:
 >
 >>
 >> ### Philosophy
->> `VIEW[{philosophy}][text]`
+>> `VIEW[{philosophy}][text(renderMarkdown)]`
 >>  
 >
 >> ### Methods
->> `VIEW[{methods}][text]`
+>> `VIEW[{methods}][text(renderMarkdown)]`
 # Free Text

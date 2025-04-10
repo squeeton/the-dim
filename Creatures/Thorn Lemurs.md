@@ -47,11 +47,11 @@ defenses: their quills are a neurotoxin that can coalesce into medicine after de
 >>| ----- | ----- |
 >>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >>### Uses
->>  `VIEW[{uses}][text]`
+>>  `VIEW[{uses}][text(renderMarkdown)]`
 >>### Defenses
->>  `VIEW[{defenses}][text]`
+>>  `VIEW[{defenses}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`

@@ -25,7 +25,7 @@ session: 1
 > # 2025-03-26 Session Note
 > |  Information | Links |
 > | --- | --- |
-> | **Session** | `VIEW[{session}][text]` |
+> | **Session** | `VIEW[{session}][text(renderMarkdown)]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |

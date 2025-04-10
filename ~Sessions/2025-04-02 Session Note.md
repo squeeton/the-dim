@@ -25,7 +25,7 @@ session:
 > # 2025-04-02 Session Note
 > |  Information | Links |
 > | --- | --- |
-> | **Session** | `VIEW[{session}][text]` |
+> | **Session** | `VIEW[{session}][text(renderMarkdown)]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
@@ -122,7 +122,7 @@ we each took an attempt at hiding [[Vveird]]
 [[Anya]] is worried about his sharp teeth and bloody [[Vveird]] aura
 he can live a long time. when questioned about his intentions
 he extended right of hearth and made and oath swearing to not harm us in his territory.
-we need to walk his  [[Shoveltooth Boar]] , bask
+we need to walk his  [[Shoveltooth Boar]] , [[Bask]]
 then he will tell us about the [[Mystery Man]] and show us how to hide our [[Vveird]]
 
  he is hauling logs of peat.

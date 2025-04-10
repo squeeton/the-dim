@@ -47,7 +47,7 @@ description: ""
 >>| ----- | ----- |
 >>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
@@ -60,10 +60,10 @@ description: ""
 >> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> ### Motivations
->> `VIEW[{motivation}][text]`
+>> `VIEW[{motivation}][text(renderMarkdown)]`
 >
 >>### Weaknesses
->> `VIEW[{weakness}][text]`
+>> `VIEW[{weakness}][text(renderMarkdown)]`
 >
 >>### Npcs
 >> `VIEW[{npcs}][link]` 

@@ -13,7 +13,8 @@ img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
-locations: []
+locations:
+  - "[[Hardmire]]"
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -21,7 +22,7 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
+description: Uncle to [[Ajax]] was the best fighter in town before the incident
 ---
 > [!data-layer]- Metadata
 >
@@ -55,7 +56,7 @@ description: ""
 >
 >>
 >>### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >>  ### Traits
 >> `VIEW[{traits}][text(renderMarkdown)]`
 >
@@ -66,8 +67,4 @@ description: ""
 #### Scratchpad
 
 
-
-
-
-
-strongest man in the town. the best hunter
+[[Ajax]]

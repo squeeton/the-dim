@@ -15,15 +15,17 @@ gnosis: 1
 items: []
 locations: []
 pronunciation: " "
-motivation: ""
+motivation: Truffles
 weakness: ""
 nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
-defenses: ""
-uses: ""
+description: |-
+  [[Shoveltooth Boar]] that belongs to [[Boil]].
+  this fat piggy loves searching up truffles. 
+npcs:
+  - "[[Boil]]"
 ---
 > [!data-layer]- Metadata
 >
@@ -38,39 +40,27 @@ uses: ""
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Uses** |`INPUT[textArea:uses]`|
-> |**Defenses** |`INPUT[textArea:defenses]`|
+> |**Motivations** |`INPUT[textArea:motivation]`|
+> |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# faax
-> [!infobox | right]+
-> # faax
-> `VIEW[{img}][image]`
-> ## Notables
-> |  Information | Links |
-> | --- | --- |
-> | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **NPCs** | `VIEW[{npcs}][link]` |
-> | **Items** | `VIEW[{items}][link]` |
-> | **Locations** | `VIEW[{locations}][link]` |
-> | **Groups** | `VIEW[{groups}][link]` |
-> | **Events** | `VIEW[{events}][link]` |
+# Bask
 
 > [!column|2 no-title]
 >
 >>
->> ### Overview
->>| Pronunciation | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
 >>  `VIEW[{description}][text(renderMarkdown)]`
->>### Uses
->>  `VIEW[{uses}][text(renderMarkdown)]`
->>### Defenses
->>  `VIEW[{defenses}][text(renderMarkdown)]`
+>>  ### Traits
+>> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
+
 #### Scratchpad
-shoveltooh boar
+
+
+
+
+
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c845e792211cd9a2",
+        "id": "9a29a2afb76c87b4",
         "type": "tabs",
         "children": [
           {
-            "id": "892ac30fe1bcf60c",
+            "id": "197ff702d852a09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"(renderMarkdown)'\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +130,36 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6f7726e2ad1ba22b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4518abaf43ae854c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Lost.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lost"
+            }
           }
         ],
         "currentTab": 2
@@ -154,34 +184,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dee98f1c16c0d184",
+  "active": "197ff702d852a09f",
   "lastOpenFiles": [
-    "~Sessions/2025-04-02 Session Note.md",
-    "Dashboard.md",
-    "Groups/The Vveird.md",
-    "Things/Vveird.md",
-    "Things/Swamp Tower.md",
-    "Creatures/Shoveltooth Boar.md",
-    "NPCs/Lost.md",
-    "NPCs/Boil.md",
-    "Creatures/Gaunt.md",
-    "~Sessions/2025-03-26 Session Note.md",
-    "vveird.md",
-    "Things/vveird .md",
     "~Sessions/2025-03-04 Session Note.md",
+    "~Sessions/2025-04-02 Session Note.md",
+    "NPCs/Bask.md",
+    "NPCs/Boil.md",
+    "Bask.md",
+    "Dashboard.md",
+    "Things/Vveird.md",
     "NPCs/Mystery Man.md",
-    "NPCs/Mother Ybah.md",
-    "Characters/Dirk Stonejaw.md",
-    "Characters/Darius Ravenscar.md",
-    "Locations/The Must.md",
-    "Events/Sporefall.md",
-    "Creatures/Shorefeaster.md",
-    "Things/Gray Beards.md",
-    "Locations/Hardmire.md",
-    "Locations/The Slurry Lake.md",
-    "Locations/The Mire.md",
-    "z_config/templates/Template - Location.md",
+    "Creatures/Glowckos.md",
+    "Characters/Ajax.md",
+    "Creatures/Thorn Lemurs.md",
+    "Groups/The Vveird.md",
+    "Groups/The Party.md",
     "Groups/The Lyre.md",
+    "z_config/templates/Template - Session.md",
+    "z_config/templates/Template - Group.md",
+    "z_config/templates/Template - Event.md",
+    "Events/Sporefall.md",
+    "Creatures/Shoveltooth Boar.md",
+    "Creatures/Shorefeaster.md",
+    "Creatures/Great Mire Beasts.md",
+    "NPCs/Lost.md",
+    "Groups/Lost Ones.md",
+    "NPCs/Mother Ybah.md",
+    "Creatures/Mud Slithers.md",
+    "Creatures/Gaunt.md",
+    "z_config/images/Boil.png",
+    "z_config/images/Boil.webp",
     "z_config/images/missing.jpg",
     "z_config/images/dirk stonejaw.png",
     "z_config/images/anya.PNG",
@@ -192,8 +224,6 @@
     "z_config/images/Aimee Duchamp.webp",
     "z_config/images/Pasted image 20250205210642.png",
     "z_config/images/Pasted image 20250205210654.png",
-    "z_config/images/Hassan.png",
-    "z_config/images/Shadow Whisper.webp",
     "Untitled.canvas",
     "NPCs/paths",
     "Rules/Time",

@@ -44,15 +44,15 @@ description: ""
 
 
 ## Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 
 ## Causes
 
->>  `VIEW[{causes}][text]`
+>>  `VIEW[{causes}][text(renderMarkdown)]`
 
 
 ## Repercussions
->>  `VIEW[{repercussions}][text]`
+>>  `VIEW[{repercussions}][text(renderMarkdown)]`
 
 #### Scratchpad
 

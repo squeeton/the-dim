@@ -21,9 +21,9 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
-uses: ""
-defenses: ""
+description: A Gecko the size of a large dog
+uses: used for their bioluminescent hides.
+defenses: Defends itself by spitting acid.
 ---
 > [!data-layer]- Metadata
 >
@@ -47,11 +47,11 @@ defenses: ""
 >>| ----- | ----- |
 >>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
->>  `VIEW[{description}][text]`
+>>  `VIEW[{description}][text(renderMarkdown)]`
 >>### Uses
->>  `VIEW[{uses}][text]`
+>>  `VIEW[{uses}][text(renderMarkdown)]`
 >>### Defenses
->>  `VIEW[{defenses}][text]`
+>>  `VIEW[{defenses}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
