@@ -26,7 +26,7 @@ aliases: []
 > |**Weight** |`INPUT[text:weight]`|
 > |**Price** |`INPUT[text:price]`|
 > |**Type** |`INPUT[Type][inlineListSuggester:type]`|
-# Gray Beards
+# Graybeards
 > [!infobox | right]+
 > # Gray Beards
 > `VIEW[{img}][image]`

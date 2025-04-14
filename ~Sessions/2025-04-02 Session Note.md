@@ -76,7 +76,7 @@ it makes it to shore and slows down, head rising. golden eyes. its looking at on
 i question it to ask if it knows who did this. it rises up even further looking at me. 
 it speaks back in a whisper. it doesnt know our terms
 it says our protections are fading. and wants to claim new territory. 
-the runes on the [[Gray Beards]] were protections. they snapped and are no longer working. 
+the runes on the [[Graybeards]] were protections. they snapped and are no longer working. 
 
 Dirk introduces himself. the being is called [[Lost]] 
 we asked about who put the protections there. asks if we killed her to claim this territory. 

@@ -13,9 +13,30 @@
         "a": 1,
         "rgb": 3830500
       }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 6926165
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 9110532
+      }
+    },
+    {
+      "query": "tag:#The Party",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1.28671875,
@@ -25,6 +46,6 @@
   "repelStrength": 14.9479166666667,
   "linkStrength": 1,
   "linkDistance": 234,
-  "scale": 0.7132754626224626,
-  "close": false
+  "scale": 0.5087618855792738,
+  "close": true
 }

@@ -59,4 +59,4 @@ aliases: []
 
 
 
-juveinile [[Gray Beards]]
+juveinile [[Graybeards]]

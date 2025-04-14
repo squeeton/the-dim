@@ -1,7 +1,8 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags: 
+tags:
+  - The Party
 icon: FasUserAstronaut
 iconColor: 
 aliases:
@@ -37,12 +38,13 @@ npcs:
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
+> |**Tags**|`INPUT[list:tags]`|
+> |**Aliases**|`INPUT[list:aliases]`|
 > |**Members** | `INPUT[inlineListSuggester(optionQuery("Characters"), useLinks(partial)):npcs]`|
 > |**Associated Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Mysteries** | `INPUT[inlineListSuggester(optionQuery("Mysteries"), useLinks(partial)):mysteries]`|
 > |**Pronunciation**|`INPUT[text:pronunciation]`|
-> |**Aliases**|`INPUT[list:aliases]`|
 > |**Traits**| `INPUT[Personality][inlineListSuggester:traits]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Philosophy** |`INPUT[textArea:philosophy]`|

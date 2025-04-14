@@ -1,7 +1,8 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags: 
+tags:
+  - Location
 icon: FasEarthAmericas
 aliases: []
 img: z_config/images/missing.jpg

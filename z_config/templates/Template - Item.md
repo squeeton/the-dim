@@ -7,6 +7,8 @@ mysteries: []
 weight: ""
 price: ""
 aliases: []
+tags:
+  - Item
 ---
 
 > [!data-layer]- Metadata

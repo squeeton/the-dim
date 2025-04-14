@@ -1,7 +1,8 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags: 
+tags:
+  - Location
 icon: FasEarthAmericas
 aliases: []
 img: z_config/images/missing.jpg
@@ -20,14 +21,15 @@ description: This is like the continent. this is everything under the mushroom c
 > |                                       |                                  |
 >| ----- | ----- |
 >| **Img**: |`INPUT[imageSuggester(optionQuery("")):img]`|
+> |**Tags**|`INPUT[list:tags]`|
+> |**Aliases**|`INPUT[list:aliases]`|
 > |**NPCs** | `INPUT[inlineListSuggester(optionQuery("NPCs"), useLinks(partial)):npcs]`|
 > |**Items** | `INPUT[inlineListSuggester(optionQuery("Things"), useLinks(partial)):items]`|
 > |**Locations** | `INPUT[inlineListSuggester(optionQuery("Locations"), useLinks(partial)):locations]`|
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
-> |Events | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
-> |Aliases|`INPUT[list:aliases]`|
-> |Map Tack|`INPUT[number:maptack]`|
+> |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
+> |Map Tack|`INPUT[number:maptack]`|
 # The Dim
 > [!infobox | right]+
 > # <% tp.file.title %>

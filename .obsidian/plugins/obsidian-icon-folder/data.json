@@ -204,5 +204,9 @@
   },
   "Locations/Boil's Hut.md": {
     "iconName": "FasEarthAmericas"
+  },
+  "~Dashboard.md": {
+    "iconName": "FasBook",
+    "iconColor": "#dcad04"
   }
 }

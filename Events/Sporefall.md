@@ -60,5 +60,5 @@ description: ""
 
 
 
-the fins of the [[Gray Beards]] get jostled and makes a heavy sticky fluid rain of spores.
+the fins of the [[Graybeards]] get jostled and makes a heavy sticky fluid rain of spores.
 its this sticky substance that envelops a seed. it can stick to you and eventually drown you 

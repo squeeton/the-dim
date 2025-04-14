@@ -1,7 +1,8 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags: 
+tags:
+  - NPC
 icon: FasUserAstronaut
 iconColor: 
 aliases: []
@@ -13,7 +14,8 @@ img: z_config/images/Boil.png
 arcana: []
 gnosis: 1
 items: []
-locations: []
+locations:
+  - "[[Boil's Hut]]"
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -22,6 +24,9 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: "A small man creature with sharp teeth and gangly limbs. He seems to know a lot about [[Vveird]]. He told us he would teach us to control it if we took his pet pig on a walk. "
+npcs:
+  - "[[Bask]]"
+  - "[[Name]]"
 ---
 > [!data-layer]- Metadata
 >
