@@ -38,9 +38,9 @@ session: 1
 ###### Intro Questions
 
 
-[[Dirk Stonejaw|dirk]] 8
+[[Dirk|dirk]] 8
 [[anya]] 10
-[[Darius Ravenscar|darius]] 11
+[[Darius|darius]] 11
 [[ajax]] 12
 
 body tired. there is no day night cycle. we work on circadian rhythms
@@ -55,10 +55,10 @@ every morning she asks us about what we dreamed of
 ones fitness is the main measure of wealth.
 [[ajax]] dreamt of fighting big lizard. hit it with big stick .
 
-[[Dirk Stonejaw|dirk]] - punched mushroom and hand went straight through it.
+[[Dirk|dirk]] - punched mushroom and hand went straight through it.
 the gray watch over us and keep us safe
 
-[[Darius Ravenscar|darius]] - dreamt of everyone giving him food. supossed to give back, but still ate it all.
+[[Darius|darius]] - dreamt of everyone giving him food. supossed to give back, but still ate it all.
 
 [[anya]] - dreamt of friendly fire.
 	if things dont seem right it might be presence of a lost one.
@@ -80,31 +80,31 @@ consistent climate. no seasons.
 
 every 100 days everyone's birthday is celebrated at the same time. 
 
-[[Dirk Stonejaw|dirk]] 
+[[Dirk|dirk]] 
 	
 [[anya]] 
 
-[[Darius Ravenscar|darius]] 13
+[[Darius|darius]] 13
 	sibling went missing and everyone searched for him
-		[[Dirk Stonejaw|dirk]] - kept searching, 
+		[[Dirk|dirk]] - kept searching, 
 		[[ajax]] - just slammed his head into the proverbial wall with little results
 		[[anya]] - went with the flow of people and searched with the group and stopped with the group
 
 [[ajax]] 
 	disfigured in childhood, got dared to noodle for a [[Shorefeaster]]
-		[[Darius Ravenscar|darius]] - would have ran out and pulled him back to shore
-		[[Dirk Stonejaw|dirk]] - advised against it with [[Mother Ybah|ybah]] proverbs
+		[[Darius|darius]] - would have ran out and pulled him back to shore
+		[[Dirk|dirk]] - advised against it with [[Mother Ybah|ybah]] proverbs
 		[[anya]] - egged him on and dared him to go out and do it.
 
 [[anya]]
 	started fires at night and got more serious than intended, and got out of control. burnt down the playhouse
-		[[Darius Ravenscar|darius]] - tried to run in and recover any sentimental items
-		[[Dirk Stonejaw|dirk]] - this motherfucker snitched to [[mother ybah]]
+		[[Darius|darius]] - tried to run in and recover any sentimental items
+		[[Dirk|dirk]] - this motherfucker snitched to [[mother ybah]]
 		[[ajax]] - tried to beat out the fire with fists, prayers, and physique
 
-[[Dirk Stonejaw|dirk]]
+[[Dirk|dirk]]
 	made a feast offering as a gift for the village and everyone loved it
-		[[Darius Ravenscar|darius]] - helped as a wingman without taking any credit for the success
+		[[Darius|darius]] - helped as a wingman without taking any credit for the success
 		[[anya]] - said he should cook all the time, 
 		[[ajax]] - the highest praise as he ate everything
 
@@ -114,9 +114,9 @@ every 100 days everyone's birthday is celebrated at the same time.
 	helpiding forage and make medicine
 [[Ajax]]
 	hunting and got injured
-[[Darius Ravenscar|Darius]] 
+[[Darius|Darius]] 
 	forging [[Hardmoss]]
-[[Dirk Stonejaw]]
+[[Dirk]]
 	making questionable tarot readings, always positive
 
 

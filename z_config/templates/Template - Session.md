@@ -1,11 +1,22 @@
----
+<%*
+const sessions = app.vault.getMarkdownFiles().filter(file => file.path.startsWith("~Sessions"));
+// Sort files by ctime
+sessions.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
+// Get basename of latest TFile to be used in link
+const latestSession = sessions[1].basename;
+const sessionCount = sessions.length;
+_%>
+
+<% "---" %>
 dg-publish: false
 tags:
   - SessionJournals
 icon: FasBook
 aliases: []
-session: 
----
+session: <% sessionCount %>
+lastSession: "[[<% latestSession %>]]"
+<% "---" %>
+
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -20,12 +31,14 @@ session:
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > | **Session** |`INPUT[number:session]`|
+> | **Last Session** |`INPUT[text:lastSession]`|
 
 > [!infobox | right]+
 > # <% tp.file.title %>
 > |  Information | Links |
 > | --- | --- |
 > | **Session** | `VIEW[{session}][text(renderMarkdown)]` |
+> | **Last Session** | `VIEW[{lastSession}][text(renderMarkdown)]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
@@ -34,26 +47,4 @@ session:
 > | **Events** | `VIEW[{events}][link]` |
 > 
 ## Raw Notes
-
-
-
-
-
-
-
-## Last Session
-<%*
-// Set folder you want to get latest file for here
-const folder = "~Sessions";
-// Get all files in that folder, including nested folders
-const filesInFolder = app.vault.getMarkdownFiles().filter(file => file.path.startsWith(folder));
-// Sort files by ctime
-filesInFolder.sort((a, b) => a.stat.ctime < b.stat.ctime ? 1 : -1);
-// Get basename of latest TFile to be used in link
-const latestFileName = filesInFolder[1].basename;
-_%>
-[[<% latestFileName %>]]
-
-
-
 

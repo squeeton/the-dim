@@ -118,14 +118,6 @@
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "Characters/Darius Ravenscar.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "Characters/Dirk Stonejaw.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "Creatures/Great Mire Beasts.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
@@ -208,5 +200,16 @@
   "~Dashboard.md": {
     "iconName": "FasBook",
     "iconColor": "#dcad04"
+  },
+  "~Sessions/2025-04-16 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Characters/Darius.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Characters/Dirk.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }

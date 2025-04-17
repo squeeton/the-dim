@@ -28,10 +28,10 @@ philosophy: ""
 methods: ""
 mysteries: []
 npcs:
-  - "[[Darius Ravenscar]]"
+  - "[[Darius]]"
   - "[[Ajax]]"
   - "[[Anya]]"
-  - "[[Dirk Stonejaw]]"
+  - "[[Dirk]]"
 ---
 > [!data-layer]- Metadata
 >

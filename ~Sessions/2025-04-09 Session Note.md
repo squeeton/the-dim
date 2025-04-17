@@ -57,7 +57,7 @@ the spirit seemed confused and in awe of the surroundings.
 [[Whitebeard]]  patch. [[Bask]] is rooting around when we got ambushed by noblins
 
 we killed two and the third surrendered. we decided to spare his life, feed him, and call him friend. 
-[[Dirk Stonejaw]] convinced him to eat his old companions
+[[Dirk]] convinced him to eat his old companions
 the noblin decided to follow us. 
 we got the rest of the truffles.
 

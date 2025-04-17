@@ -42,13 +42,13 @@ smoke rising from the bark of a tree. a strange pattern 7 feet off the ground. f
 there is a pattern in there. technically writing. but we dont know what writing is. spiraling, with thorns with unnatural repitition.
 this is a rune, 
 
-[[Darius Ravenscar]] tried to commit this symbol to memory. i do but it give me the fears.
+[[Darius]] tried to commit this symbol to memory. i do but it give me the fears.
 
 everyone is dead.
 
 [[Ajax]] put his hand in the smoke and it reacted to the light inside of him.
 
-[[Darius Ravenscar]] collected some of the casing that protected them.
+[[Darius]] collected some of the casing that protected them.
 
 the cloud started to reverse blossom. it was covering the [[Everpot]], which is now sucking up the smoke.no one knows how to do an investigation.
 this is the most empty [[Everpot]] ever seen. theres barely slop at the bottom. 
@@ -61,14 +61,14 @@ no tracks left to follow him
 
 Ajax went looking through everything and found a tiny vest with a fuckload of pockets. 
 I found a small stone disk my brother found when we were younger. 
-[[Dirk Stonejaw]] found a small jar of "kimchi"
+[[Dirk]] found a small jar of "kimchi"
 
 we continue to be unable to find tracks.
 [[Anya]] hid to cry.  then searched [[Mother Ybah]]s house to try and find clues. also nothing there. burnt away.
 
 a splash to the east. several splashes in the water. 
 [[Ajax]] wanders into the water in search of splashing.
-[[Dirk Stonejaw]] saw something serpentine coming right for us. its not something we have hunted before.
+[[Dirk]] saw something serpentine coming right for us. its not something we have hunted before.
 
 this looks like a huge [[Mud Slithers]] this is completely unheard of a beast this big. this thing is at least 75ft long.
 it makes it to shore and slows down, head rising. golden eyes. its looking at one of the runes. 

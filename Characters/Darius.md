@@ -5,13 +5,14 @@ tags:
 icon: FasUserAstronaut
 iconColor: 
 aliases:
-  - Dirk
-  - Kirk
+  - Me
+  - Squee
+  - Darius Ravenscar
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/dirk stonejaw.png
+img: z_config/images/Darius Ravenscar.png
 arcana: []
 gnosis: 1
 items: []
@@ -24,7 +25,7 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-perception: 15
+perception: 9
 ---
 > [!data-layer]- Metadata
 >
@@ -41,7 +42,7 @@ perception: 15
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Dirk Stonejaw
+# Darius Ravenscar
 > [!column|2 no-title]
 >
 >>
@@ -72,3 +73,10 @@ perception: 15
 >> `VIEW[{npcs}][link]` 
 
 # Other Details
+Childhood
+	Never believed in the stories Ybah told. Was a real trouble maker and regularly broke every rule in the book.
+	
+Teens
+
+Level 1
+21 years old
