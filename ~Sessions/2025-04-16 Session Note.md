@@ -51,9 +51,7 @@ I'm able to open the door and revealed a tiny tunnel to a unexplored chamber.
 I pulled a lever and got myself trapped inside.
 
 i found a metal sword.
-silver strings
 paper (( scroll probably))
-unstrung bow
 
 
 

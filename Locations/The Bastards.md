@@ -12,15 +12,9 @@ overview: ""
 cssclasses:
   - wide-table
 pronunciation: ""
-description: |-
-  was an outpost that became a settlement
-  buildings are out on the marsh built on top of the [[Marrow Cane]] as stilts
-  eventually grew into a larger settlement
-
-  they are known for the [[Marrow Cane]]
-
-  they too rigid like they have a stick up their....
-maptack: 4
+description: on the shore there are two large formation. remnants of long lost civilizations. two giant statues facing each other. a settlement formed there. this is a large [[The Lyre|Lyrebird]] population.
+maptack: 8
+groups: []
 locations:
   - "[[The Dim]]"
 ---
@@ -40,13 +34,13 @@ locations:
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |Map Tack|`INPUT[number:maptack]`|
-# Reedswatch
+# The Bastards
 > [!infobox | right]+
-> # <% tp.file.title %>
+> # The Bastards
 > `VIEW[{img}][image]`
 > ## Notables
-> | Description |  Links |
-> | ---- | --- |
+> |  Information | Links |
+> | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
@@ -56,24 +50,17 @@ locations:
 > | **Events** | `VIEW[{events}][link]` |
 > 
 
->>### Overview
->>| Map Tack | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{maptack}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
->>
->> ### Description
->> `VIEW[{description}][text(renderMarkdown)]`
-# What's Here
-> [!column|2 no-title]
->
->>
->> ### NPCs
->> `VIEW[{npcs}][link]`
->>  
->
->
->> ### Items
->> `VIEW[{items}][link]`
 
-## Additional Details
-Placeholder
+> [!column]
+>>  ## Description
+>> `VIEW[{description}][text(renderMarkdown)]`
+>
+>> ## Additional Notes
+>> 
+>> 
+
+#### Scratchpad
+
+
+
+

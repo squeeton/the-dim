@@ -15,7 +15,9 @@ FROM "Characters"
 >
 >> # Locations
 >> ```dataview
->> LIST from "Locations"
+>> TABLE maptack AS "Map Tack"
+>> FROM "Locations"
+>> SORT maptack asc
 >> ```
 >
 >> # Groups

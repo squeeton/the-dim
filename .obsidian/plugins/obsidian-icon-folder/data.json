@@ -103,9 +103,6 @@
   "Locations/Hopswell.md": {
     "iconName": "FasEarthAmericas"
   },
-  "Locations/Reedswatch.md": {
-    "iconName": "FasEarthAmericas"
-  },
   "Characters/Anya.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
@@ -209,6 +206,51 @@
     "iconColor": null
   },
   "Characters/Dirk.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "~Sessions/2025-04-23 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Locations/Reedwatch.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Sunder.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "NPCs/Sister Jan.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Damon.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Watchers.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Kalius Greynor.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/The Bastards.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Falgo's Watch.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "NPCs/Nyello Frost.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Reed's Rest.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Under The Lily.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Groups/Fingersmiths.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   }
