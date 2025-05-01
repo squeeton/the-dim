@@ -60,3 +60,4 @@ aliases: []
 
 
 Giant mushrooms that canopy the entirety of [[The Dim]].
+they block out the sun, and during the day they are semi-translucent. you can see the capliaries through the canopy.

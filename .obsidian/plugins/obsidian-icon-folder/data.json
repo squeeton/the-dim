@@ -218,10 +218,6 @@
   "Locations/Sunder.md": {
     "iconName": "FasEarthAmericas"
   },
-  "NPCs/Sister Jan.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "NPCs/Damon.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
@@ -251,6 +247,29 @@
     "iconName": "FasEarthAmericas"
   },
   "Groups/Fingersmiths.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "~Sessions/2025-04-30 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Creatures/Razor Eel.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Tristag.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Order of Cheol.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Sifter.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Sifter Jan.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   }

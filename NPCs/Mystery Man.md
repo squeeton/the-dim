@@ -5,7 +5,8 @@ tags:
   - NPC
 icon: FasUserAstronaut
 iconColor: 
-aliases: []
+aliases:
+  - Elryc Frost
 Personality: []
 Nimbus: ""
 Path: none

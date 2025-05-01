@@ -96,3 +96,4 @@ npcs: []
 
 
 they steal fingers?
+ nope. just thieves.  

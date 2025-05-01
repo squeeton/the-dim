@@ -2,37 +2,33 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - Location
-icon: FasEarthAmericas
-aliases: []
-img: z_config/images/missing.jpg
-npcs:
-  - "[[Mystery Man]]"
-  - "[[Sifter Jan]]"
-  - "[[Nyello Frost]]"
-items: 
-overview: ""
-cssclasses:
-  - wide-table
-pronunciation: ""
-description: |-
-  was an outpost that became a settlement
-  buildings are out on the marsh built on top of the [[Marrow Cane]] as stilts
-  eventually grew into a larger settlement
-
-  they are known for the [[Marrow Cane]]
-
-  they too rigid like they have a stick up their....
-maptack: 4
-locations:
-  - "[[The Dim]]"
-  - "[[Under The Lily]]"
-  - "[[Reed's Rest]]"
-groups:
-  - "[[Fingersmiths]]"
+  - Group
+icon: FasUserAstronaut
+iconColor: 
+aliases:
+  - " "
+Personality: []
+Nimbus: ""
+Path: none
+Order: none
+img: z_config/images/ImagePlaceholder.png
+arcana: []
+gnosis: 
+items: []
+locations: []
+pronunciation: " "
+motivation: ""
+weakness: ""
+nimbusSignature: ""
+nimbusImmediate: ""
+nimbusLongTerm: ""
+traits: []
+description: ""
+philosophy: ""
+methods: ""
+mysteries: []
+npcs: []
 ---
-
-
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -46,44 +42,57 @@ groups:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |Map Tack|`INPUT[number:maptack]`|
-# Reedwatch
+> |**Philosophy** |`INPUT[textArea:philosophy]`|
+> |**Methods** |`INPUT[textArea:methods]`|
+# Sifter
 > [!infobox | right]+
-> # Reedwatch
+> # Sifter
 > `VIEW[{img}][image]`
 > ## Notables
-> | Description |  Links |
-> | ---- | --- |
+> |  Information | Links |
+> | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
 
->>### Overview
->>| Map Tack | Also Known AS|
+> [!column|2 no-title]
+>
+>>| Pronunciation | Also Known AS|
 >>| ----- | ----- |
->>|`VIEW[{maptack}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>
 >> ### Description
->> `VIEW[{description}][text(renderMarkdown)]`
-# What's Here
+>>  `VIEW[{description}][text(renderMarkdown)]`
+>
+>> 
+>> `INPUT[imageSuggester(optionQuery("")):img]`
+
+# Details
 > [!column|2 no-title]
 >
 >>
->> ### NPCs
->> `VIEW[{npcs}][link]`
+>> ### Philosophy
+>> `VIEW[{philosophy}][text(renderMarkdown)]`
 >>  
 >
->
->> ### Items
->> `VIEW[{items}][link]`
+>> ### Methods
+>> `VIEW[{methods}][text(renderMarkdown)]`
+#### Scratchpad
 
-## Additional Details
 
-this place has large walls
-and captured bioluminecense .
-the gate has a contigency of gaurd to keep watch. 
+
+local judges.
+and informal promise to serve their community as best they can.
+
+
+
+
+
+
+
+
+
+
+

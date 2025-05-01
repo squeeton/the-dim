@@ -50,10 +50,10 @@ he said they havent seen anyone from [[Hardmire]] in over 100 years
 
 all the hardmoss comes from [[Sunder]]
 
-they want us to talk to someone higher up. they want us to talk to the Sifter. 
+they want us to talk to someone higher up. they want us to talk to the [[Sifter]]. 
 the Sifter investigates and sifts for the truth. 
 
-we are led to [[Sister Jan]], she invited us into the house.
+we are led to [[Sifter Jan]], she invited us into the house.
 the timing is suspicious. 
 she asked our story, we tried to avoid [[Mother Ybah]] in the story. 
 she recognized the [[Mystery Man]]. 
@@ -75,7 +75,7 @@ when pressed about the odd timing of our arrival.
 she considered the events connected from the [[Mystery Man]] and our story.
 
 I remember there was a terrible fire in [[Reedwatch]] about 10 years
-[[Sister Jan]] had no recollection of this. nothing of it in their entire history.
+[[Sifter Jan]] had no recollection of this. nothing of it in their entire history.
 
 [[Ajax]] got us some nuts from a child in exchange for 10 ft of rope.
 
@@ -105,9 +105,7 @@ none of us know what it is.
 everyone keeps asking us where we're from.
 she was worried about [[Fingersmiths]] taking her. so she wanted us to walk her home. when we offered she said she wanted to stay until late.
 
-
 we had a large misunderstanding about the exotic meats.
 the lady was crocheting a scarf. the last one was ruined in a [[Sporefall]]
-
 
 i person chucked something in to the jug, then plunged his arm into the tank. he cursed and injured his hand, then pulled it out laughing. the crowd laughed and then cheered him as he returned to his seat.
