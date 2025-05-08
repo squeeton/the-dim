@@ -9,7 +9,7 @@ aliases:
 img: z_config/images/missing.jpg
 npcs:
   - "[[Mother Ybah]]"
-  - "[[Mystery Man]]"
+  - "[[Elryc Frost]]"
   - "[[Arax]]"
 items:
   - "[[Hardmoss]]"

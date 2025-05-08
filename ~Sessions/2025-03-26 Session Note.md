@@ -111,7 +111,7 @@ every 100 days everyone's birthday is celebrated at the same time.
 ### present day
 
 [[Anya]]
-	helpiding forage and make medicine
+	helping forage and make medicine
 [[Ajax]]
 	hunting and got injured
 [[Darius|Darius]] 

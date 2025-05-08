@@ -6,30 +6,17 @@ tags:
 icon: FasEarthAmericas
 aliases: []
 img: z_config/images/missing.jpg
-npcs:
-  - "[[Elryc Frost]]"
-  - "[[Sifter Jan]]"
-  - "[[Nyello Frost]]"
+npcs: 
 items: 
 overview: ""
 cssclasses:
   - wide-table
 pronunciation: ""
-description: |-
-  was an outpost that became a settlement
-  buildings are out on the marsh built on top of the [[Marrow Cane]] as stilts
-  eventually grew into a larger settlement
-
-  they are known for the [[Marrow Cane]]
-
-  they too rigid like they have a stick up their....
-maptack: 4
+description: ""
+maptack: 0
+groups: []
 locations:
   - "[[The Dim]]"
-  - "[[Under The Lily]]"
-  - "[[Reed's Rest]]"
-groups:
-  - "[[Fingersmiths]]"
 ---
 
 
@@ -47,13 +34,13 @@ groups:
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |Map Tack|`INPUT[number:maptack]`|
-# Reedwatch
+# Your Inn
 > [!infobox | right]+
-> # Reedwatch
+> # Your Inn
 > `VIEW[{img}][image]`
 > ## Notables
-> | Description |  Links |
-> | ---- | --- |
+> |  Information | Links |
+> | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
@@ -63,27 +50,17 @@ groups:
 > | **Events** | `VIEW[{events}][link]` |
 > 
 
->>### Overview
->>| Map Tack | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{maptack}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
->>
->> ### Description
+
+> [!column]
+>>  ## Description
 >> `VIEW[{description}][text(renderMarkdown)]`
-# What's Here
-> [!column|2 no-title]
 >
->>
->> ### NPCs
->> `VIEW[{npcs}][link]`
->>  
->
->
->> ### Items
->> `VIEW[{items}][link]`
+>> ## Additional Notes
+>> 
+>> 
 
-## Additional Details
+#### Scratchpad
 
-this place has large walls
-and captured bioluminecense .
-the gate has a contigency of gaurd to keep watch. 
+
+
+

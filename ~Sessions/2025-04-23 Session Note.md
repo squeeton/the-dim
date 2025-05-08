@@ -56,7 +56,7 @@ the Sifter investigates and sifts for the truth.
 we are led to [[Sifter Jan]], she invited us into the house.
 the timing is suspicious. 
 she asked our story, we tried to avoid [[Mother Ybah]] in the story. 
-she recognized the [[Mystery Man]]. 
+she recognized the [[Elryc Frost]]. 
 he came through here a week ago and headed southeast.
 it is a custom to introduce yourself to the sifter of a local city.
 we explain its similar to a [[Blastcap]]
@@ -72,7 +72,7 @@ we asked about nearby settlements and got
 [[Sunder]],  [[The Bastards]], [[Falgo's Watch]]
 
 when pressed about the odd timing of our arrival.
-she considered the events connected from the [[Mystery Man]] and our story.
+she considered the events connected from the [[Elryc Frost]] and our story.
 
 I remember there was a terrible fire in [[Reedwatch]] about 10 years
 [[Sifter Jan]] had no recollection of this. nothing of it in their entire history.

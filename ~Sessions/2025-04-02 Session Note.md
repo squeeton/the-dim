@@ -55,7 +55,7 @@ this is the most empty [[Everpot]] ever seen. theres barely slop at the bottom.
 
 the [[Everpot]] must be magic of some kind. we never recalled her doing anything magical. we never learned how she lost her eye. she has just always been missing it.
 
-there were tiny versions of the rune on his scabbard and box from the [[Mystery Man]] he wore thick furs which are very uncommon in this area.
+there were tiny versions of the rune on his scabbard and box from the [[Elryc Frost]] he wore thick furs which are very uncommon in this area.
 no tracks left to follow him
 
 
@@ -117,13 +117,13 @@ whatever is underneath is lumpy and rises 6 feet above, blocking the view of the
 we each took an attempt at hiding [[Vveird]] 
 
  he seemed interested in [[Lost]]. asked us about our territory.
- he asks us to complete a chore for information about the [[Mystery Man]]
+ he asks us to complete a chore for information about the [[Elryc Frost]]
 
 [[Anya]] is worried about his sharp teeth and bloody [[Vveird]] aura
 he can live a long time. when questioned about his intentions
 he extended right of hearth and made and oath swearing to not harm us in his territory.
 we need to walk his  [[Shoveltooth Boar]] , [[Bask]]
-then he will tell us about the [[Mystery Man]] and show us how to hide our [[Vveird]]
+then he will tell us about the [[Elryc Frost]] and show us how to hide our [[Vveird]]
 
  he is hauling logs of peat.
  as we got close [[Boil]] makes a symbol and drops an illusion to reveal his hut.

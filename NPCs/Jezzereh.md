@@ -5,8 +5,7 @@ tags:
   - NPC
 icon: FasUserAstronaut
 iconColor: 
-aliases:
-  - Elryc Frost
+aliases: []
 Personality: []
 Nimbus: ""
 Path: none
@@ -41,9 +40,9 @@ description: ""
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Mystery Man
+# Jezzereh
 > [!infobox | right]+
-> # Mystery Man
+> # Jezzereh
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -72,3 +71,4 @@ description: ""
 
 
 
+a food and plant merchant that brings food to [[The Watchers]]

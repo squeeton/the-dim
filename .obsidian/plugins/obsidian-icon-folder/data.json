@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSpaghettiMonsterFlying",
       "FasBook",
       "FasUserAstronaut",
       "FasExclamation",
-      "FasEarthAmericas",
-      "FasWandSparkles"
+      "FasEarthAmericas"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -149,10 +149,6 @@
   "~Sessions/2025-04-02 Session Note.md": {
     "iconName": "FasBook"
   },
-  "NPCs/Mystery Man.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "NPCs/Lost.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
@@ -257,10 +253,6 @@
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "Creatures/Tristag.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "Groups/Order of Cheol.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
@@ -270,6 +262,39 @@
     "iconColor": null
   },
   "NPCs/Sifter Jan.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "~Sessions/2025-05-07 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Elryc Frost.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Fern.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Jezzereh.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Tri-stag.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Bodie.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Your Inn.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "NPCs/Laranth.md": {
+    "iconName": "FasSpaghettiMonsterFlying"
+  },
+  "NPCs/Lodie.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   }

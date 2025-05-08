@@ -2,36 +2,11 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - Location
-icon: FasEarthAmericas
-aliases: []
+  - God
+icon: FasSpaghettiMonsterFlying
+aliases: 
 img: z_config/images/missing.jpg
-npcs:
-  - "[[Elryc Frost]]"
-  - "[[Sifter Jan]]"
-  - "[[Nyello Frost]]"
-items: 
-overview: ""
-cssclasses:
-  - wide-table
-pronunciation: ""
-description: |-
-  was an outpost that became a settlement
-  buildings are out on the marsh built on top of the [[Marrow Cane]] as stilts
-  eventually grew into a larger settlement
-
-  they are known for the [[Marrow Cane]]
-
-  they too rigid like they have a stick up their....
-maptack: 4
-locations:
-  - "[[The Dim]]"
-  - "[[Under The Lily]]"
-  - "[[Reed's Rest]]"
-groups:
-  - "[[Fingersmiths]]"
 ---
-
 
 > [!data-layer]- Metadata
 >
@@ -46,44 +21,64 @@ groups:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |Map Tack|`INPUT[number:maptack]`|
-# Reedwatch
+# Laranth
 > [!infobox | right]+
-> # Reedwatch
+> # Laranth
 > `VIEW[{img}][image]`
 > ## Notables
-> | Description |  Links |
-> | ---- | --- |
+> |  Information | Links |
+> | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
 
->>### Overview
->>| Map Tack | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{maptack}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
->>
->> ### Description
->> `VIEW[{description}][text(renderMarkdown)]`
-# What's Here
-> [!column|2 no-title]
->
->>
->> ### NPCs
->> `VIEW[{npcs}][link]`
->>  
->
->
->> ### Items
->> `VIEW[{items}][link]`
+Notes
+
+
+## Overview
+Placeholder
+
+**Alignment**: Chaotic Evil
+
+**Domains**: Death, Knowledge, Life, Light, Nature, Tempest, Trickery, War
+
+
+### Picture
+![[ImagePlaceholder.png]]
+
+
+## Profile
+Placeholder
+
+## Story
+Placeholder
+
+## Motivation and Philosophy
+Placeholder
+
+## Relationships
+Placeholder
+
+## Resources
+Placeholder
+
+## Abilities
+Placeholder
+
+## Methods
+Placeholder
+
+## Background
+Placeholder
 
 ## Additional Details
+Placeholder
 
-this place has large walls
-and captured bioluminecense .
-the gate has a contigency of gaurd to keep watch. 
+#### Scratchpad
+
+
+
+a god of nature

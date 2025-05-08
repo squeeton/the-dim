@@ -42,7 +42,7 @@ uses: ""
 > |**Uses** |`INPUT[textArea:uses]`|
 > |**Defenses** |`INPUT[textArea:defenses]`|
 
-# Tristag
+# Tri-stag
 > [!infobox | right]+
 > # Tristag
 > `VIEW[{img}][image]`
@@ -81,3 +81,5 @@ great at charging
 perceptive and sensitive to its surroundings.
 
 it scars its territory with its large horns
+
+these things are pests. they root up plants and just generally destroy plantlife and shit. 

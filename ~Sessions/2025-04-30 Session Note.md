@@ -50,7 +50,7 @@ ajax made his best attempt to explain how  we got the truffles.
 he says its a [[Corpsebloom Truffle]], but he doesn't mention what exactly it is.
 nevermind, he explained it.
 
-on the way to [[The Bastards]]  there are rumors of a [[Tristag]]. he wants his heart, liver, and a thick bone from it.
+on the way to [[The Bastards]]  there are rumors of a [[Tri-stag]]. he wants his heart, liver, and a thick bone from it.
 
 [[Ajax]] confirmed we would do it without knowing what it was.
 he said it was more of a test of skill and an actual requirement for food.
@@ -74,7 +74,7 @@ we decided to take watches in the night. it was uneventful.
 we went to the sifter to fill her in about us leaving. she wanted to see us today to go over her verdict.
 
 she wasn't upfront about the mystery man.
-his name is [[Mystery Man]] 
+his name is [[Elryc Frost]] 
 hes a member of the [[Order of Cheol]]
 he mentioned he had business he had to finish then he could retire to the center of the order.
 the center is to the west. She's known him for over 30 years.
