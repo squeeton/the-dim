@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "282a93a0da229aa1",
+            "id": "94be520e8d2f9ce1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~Sessions/2025-05-07 Session Note.md",
+                "file": "~Sessions/2025-05-14 Session Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-07 Session Note"
+              "title": "2025-05-14 Session Note"
             }
           }
         ],
@@ -199,14 +199,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "282a93a0da229aa1",
+  "active": "94be520e8d2f9ce1",
   "lastOpenFiles": [
-    "~Sessions/2025-03-26 Session Note.md",
     "~Sessions/2025-05-07 Session Note.md",
+    "~Dashboard.md",
+    "Locations/The Mire.md",
+    "Locations/The Must.md",
+    "Locations/Your Inn.md",
+    "~Sessions/2025-05-14 Session Note.md",
+    "~Sessions/2025-04-09 Session Note.md",
+    "~Sessions/2025-03-26 Session Note.md",
     "NPCs/Lodie.md",
     "NPCs/Fern.md",
     "NPCs/Laranth.md",
-    "Locations/Your Inn.md",
     "NPCs/Bodie.md",
     "Creatures/Tri-stag.md",
     "NPCs/Jezzereh.md",
@@ -218,16 +223,11 @@
     "NPCs/Name.md",
     "NPCs/Elryc Frost.md",
     "NPCs/Damon.md",
-    "~Dashboard.md",
     "Groups/Order of Cheol.md",
     "z_config/images/Pasted image 20250430212352.png",
     "NPCs/Sifter Jan.md",
     "Groups/Sifter.md",
     "Groups/Fingersmiths.md",
-    "Locations/Reed's Rest.md",
-    "Locations/Under The Lily.md",
-    "Things/Graybeards.md",
-    "Locations/The Bastards.md",
     "z_config/images/Boil.png",
     "z_config/images/Boil.webp",
     "z_config/images/missing.jpg",
