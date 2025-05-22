@@ -300,5 +300,27 @@
   },
   "~Sessions/2025-05-14 Session Note.md": {
     "iconName": "FasBook"
+  },
+  "~Sessions/2025-05-21 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Serric.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/The Master of Inconsistency.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Pic.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Undercroft.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "NPCs/Trixie.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }
