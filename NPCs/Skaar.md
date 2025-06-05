@@ -5,9 +5,7 @@ tags:
   - NPC
 icon: FasUserAstronaut
 iconColor: 
-aliases:
-  - Ybah
-  - Baba Ybah
+aliases: []
 Personality: []
 Nimbus: ""
 Path: none
@@ -15,27 +13,16 @@ Order: none
 img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
-items:
-  - "[[Everpot]]"
-locations:
-  - "[[Hardmire]]"
-pronunciation: " Mother - Yah-Bah"
-motivation: |-
-  She is in charge of the children
-  she wants to provide the culture and ethos for the children
+items: []
+locations: []
+pronunciation: " "
+motivation: ""
 weakness: ""
 nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
-traits:
-  - "#Caring"
-description: |-
-  elderly woman keeping the Everpot going.
-  takes care of the kids and tells stories about The Dim.
-  shes in charge of the children's education.
-  The main danger is the wildlife.
-
-  in charge of the hearth.
+traits: []
+description: ""
 ---
 > [!data-layer]- Metadata
 >
@@ -53,9 +40,9 @@ description: |-
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Mother Ybah
+# Skaar
 > [!infobox | right]+
-> # Mother Ybah
+> # Skaar
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -84,9 +71,3 @@ description: |-
 
 
 
-skinny but hard womanin her 80s
-long white hair, tied back with scarf
-one eye missing, no fucks given about it
-
-has lots of busy tasks
-her main time is telling stories keeping the kids out of trouble or their parents business

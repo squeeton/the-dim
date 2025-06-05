@@ -106,7 +106,7 @@ we went down the ladder and found ourselves in a pitch black tunnel. anya made l
 inside is a 50ft diameter room with multiple tunnels branching out of it. there are about 20 people here.
 
 we found a 10 year  old girl reading abook and presumibly selling magic items. [[Trixie]]'s trinkets.
-she got nervous during our trade and wouldnt continue until we talked to Wargrin.
+she got nervous during our trade and wouldnt continue until we talked to [[Waurgrim]].
 we talked to him and he demanded to know what we were selling.
 he fulfiled his promise. whatever that means.
 he only trades information.
