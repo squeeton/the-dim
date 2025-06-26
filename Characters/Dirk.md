@@ -24,7 +24,7 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-perception: 15
+perception: 16
 ---
 > [!data-layer]- Metadata
 >

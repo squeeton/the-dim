@@ -347,5 +347,18 @@
   "NPCs/Locke.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2025-06-11 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/2025-06-18 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/2025-06-25 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Mr Wonderful.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }
