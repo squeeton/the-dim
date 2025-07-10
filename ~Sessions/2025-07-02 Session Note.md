@@ -63,10 +63,11 @@ he gave me a yuan-ti tattoo on my forearm and whispered something to it. he gave
 he will trade the last egg of his giant centipede (Gigantipede), Marnie
 they can seat 6-7 and take a couple months to grow to maturity
 they require a  LOT of food.
-
 we all got tattoos
 kirk got hardmire across his knuckles.
 we traded the child of laranth to Gillium for a centipede mount
+We Did not trade, and said we would meet him at the bastards for it.
+
 we got him to open up the black chest.
 
 it had 3 crowbars
@@ -75,3 +76,11 @@ it had 3 crowbars
 a forearm length tube carved from bone
 
 he said the rune chest is ordaning runes and they feel bad and have the vibes of screaming faces
+[[Sifter Jan]] sent people to harmire and she corroborated our story.
+we went to the [[Undercroft]] and saw some curse bags.
+turned in the chest to [[Waurgrim]] he promised to teach us.
+he told us our kua toa gems were inert and now just jewels.
+
+tattoos make people uncomfortable as well as writing
+those devoted to the old gods made their followers mark their body,
+[[Waurgrim]]gave eachof us a book for when we finished learning to read.
