@@ -64,3 +64,9 @@ locations:
 
 
 
+CApitol of the [[Order of Cheol]]
+
+it is "distracting"
+
+it is outside [[The Dim]]
+the light is bright enough to be seen through your eyelids.
