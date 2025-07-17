@@ -14,7 +14,9 @@ img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
-locations: []
+locations:
+  - "[[Reedwatch]]"
+  - "[[Undercroft]]"
 pronunciation: " "
 motivation: ""
 weakness: ""

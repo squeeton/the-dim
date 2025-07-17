@@ -14,7 +14,8 @@ img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
-locations: []
+locations:
+  - "[[Your Inn]]"
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -23,6 +24,8 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
+npcs:
+  - "[[Lodie]]"
 ---
 > [!data-layer]- Metadata
 >

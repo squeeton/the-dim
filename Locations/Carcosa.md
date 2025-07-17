@@ -6,7 +6,8 @@ tags:
 icon: FasEarthAmericas
 aliases: []
 img: z_config/images/missing.jpg
-npcs: 
+npcs:
+  - "[[Elryc Frost]]"
 items: 
 overview: ""
 cssclasses:
@@ -14,7 +15,8 @@ cssclasses:
 pronunciation: ""
 description: ""
 maptack: 0
-groups: []
+groups:
+  - "[[Order of Cheol]]"
 locations:
   - "[[The Dim]]"
 ---

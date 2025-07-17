@@ -76,11 +76,3 @@ it had 3 crowbars
 a forearm length tube carved from bone
 
 he said the rune chest is ordaning runes and they feel bad and have the vibes of screaming faces
-[[Sifter Jan]] sent people to harmire and she corroborated our story.
-we went to the [[Undercroft]] and saw some curse bags.
-turned in the chest to [[Waurgrim]] he promised to teach us.
-he told us our kua toa gems were inert and now just jewels.
-
-tattoos make people uncomfortable as well as writing
-those devoted to the old gods made their followers mark their body,
-[[Waurgrim]]gave eachof us a book for when we finished learning to read.

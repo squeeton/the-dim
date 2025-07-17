@@ -24,6 +24,8 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
+groups:
+  - "[[Sifter]]"
 ---
 > [!data-layer]- Metadata
 >

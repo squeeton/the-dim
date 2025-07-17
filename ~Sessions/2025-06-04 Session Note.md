@@ -77,10 +77,10 @@ we continued trading.
 
 ##### Fighting Style Upgrades
 **[[Dirk]]**: Dueling Style. Seek out **Hythias Mrey** at the [[Rat King]]
-
 **[[Ajax]]**: Great Weapon Fighting. Seek out **Braximus Bellowgrind** at [[Falgo's Watch]].
+**[[Darius]]**/**[[Anya]]**: Defense Style. Seek out **Yorik Scale-Shine** in [[Sunder]].
 
-**[[Darius]]**/**[[Anya]]**: Defense Style. Seek out Yorik **Scale-Shine** in [[Sunder]].
+
 
 
 [[Dirk]] was able to raise his child and was awarded Wisdom

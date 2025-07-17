@@ -27,7 +27,8 @@ description: ""
 philosophy: ""
 methods: ""
 mysteries: []
-npcs: []
+npcs:
+  - "[[Sifter Jan]]"
 ---
 > [!data-layer]- Metadata
 >

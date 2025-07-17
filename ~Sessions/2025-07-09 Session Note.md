@@ -48,3 +48,15 @@ it was a tough battle.
 anya finally burnt it out.
 
 just before we got to town we met a lyrebird and bought all her healing potions.
+
+
+[[Sifter Jan]] sent people to harmire and she corroborated our story.
+we went to the [[Undercroft]] and saw some curse bags.
+turned in the chest to [[Waurgrim]] he promised to teach us.
+he told us our kua toa gems were inert and now just jewels.
+
+tattoos make people uncomfortable as well as writing
+those devoted to the old gods made their followers mark their body,
+[[Waurgrim]] gave each of us a book for when we finished learning to read.
+we are currently in the middle of downtime. about to set off for [[The Bastards]]
+we read the books and they gave us bonus' to attributes.

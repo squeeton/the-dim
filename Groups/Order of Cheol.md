@@ -27,7 +27,9 @@ description: ""
 philosophy: ""
 methods: ""
 mysteries: []
-npcs: []
+npcs:
+  - "[[Elryc Frost]]"
+  - "[[Waurgrim]]"
 ---
 > [!data-layer]- Metadata
 >

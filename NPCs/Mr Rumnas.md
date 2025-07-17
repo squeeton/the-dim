@@ -14,9 +14,7 @@ img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
-locations:
-  - "[[Reedwatch]]"
-  - "[[Reed's Rest]]"
+locations: []
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -42,9 +40,9 @@ description: ""
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Nyello Frost
+# Mr Rumnas
 > [!infobox | right]+
-> # Nyello Frost
+> # Mr Rumnas
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -71,8 +69,5 @@ description: ""
 
 
 
-The current innkeeper for [[Reed's Rest]]
 
-lean man, scar covering two thirds of his face .
-big beard. hair shaved back.
-hardness to his frame. got that farmer strength.
+
