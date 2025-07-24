@@ -1,24 +1,15 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-dg-publish: false
-tags:
-  - Location
-icon: FasEarthAmericas
-aliases: []
-img: z_config/images/missing.jpg
-npcs: 
-items: 
-overview: ""
-cssclasses:
-  - wide-table
+img: z_config/images/ImagePlaceholder.png
+uses: ""
+description: ""
 pronunciation: ""
-description: on the shore there are two large formation. remnants of long lost civilizations. two giant statues facing each other. a settlement formed there. this is a large [[The Lyre|Lyrebird]] population.
-maptack: 8
-groups: []
-locations:
-  - "[[The Dim]]"
+mysteries: []
+weight: ""
+price: ""
+aliases: []
+tags:
+  - Item
 ---
-
 
 > [!data-layer]- Metadata
 >
@@ -33,37 +24,45 @@ locations:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |Map Tack|`INPUT[number:maptack]`|
-# The Bastards
+> |**Uses** |`INPUT[textArea:uses]`|
+> |**Weight** |`INPUT[text:weight]`|
+> |**Price** |`INPUT[text:price]`|
+> |**Type** |`INPUT[Type][inlineListSuggester:type]`|
+# Blackcap
 > [!infobox | right]+
-> # The Bastards
+> # Blackcap
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
 
 
-> [!column]
->>  ## Description
+> [!column|2 no-title]
+>> ### Description
 >> `VIEW[{description}][text(renderMarkdown)]`
+>>
+>> ### Uses
+>> `VIEW[{uses}][text(renderMarkdown)]`
 >
->> ## Additional Notes
->> 
->> 
+>> |  Detail | Info |
+>> | --- | --- |
+>> | **Weight** | `VIEW[{weight}][link]` |
+>> | **Price** | `VIEW[{price}][link]` |
+>> | **Type** | `VIEW[{type}][link]` |
+
 
 #### Scratchpad
 
 
 
-There are several statues reaching towards each other as if they were going to embrace. they are halfway submerged. roughly 1000 feet is above the water. they are partially in the shore. below there is lots of bioluminescence.
-there is merriment and festivities happening. 
+invasive mushroom species that can take over an area.
 
-burning man.
+cold is the only way to clear out the infestation of these mushrooms.
+
+it is has spores that cause paralysis to death while the mushrooms eat you alive.
