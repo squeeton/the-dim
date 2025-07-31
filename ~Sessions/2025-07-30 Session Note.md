@@ -1,28 +1,12 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - Location
-icon: FasEarthAmericas
+  - SessionJournals
+icon: FasBook
 aliases: []
-img: Pasted image 20250730204322.png
-npcs:
-  - "[[Gurk]]"
-  - "[[Gillium]]"
-  - "[[Llyrah]]"
-items: 
-overview: ""
-cssclasses:
-  - wide-table
-pronunciation: ""
-description: on the shore there are two large formation. remnants of long lost civilizations. two giant statues facing each other. a settlement formed there. this is a large [[The Lyre|Lyrebird]] population.
-maptack: 8
-groups:
-  - "[[The Lyre]]"
-locations:
-  - "[[The Dim]]"
+session: 19
+lastSession: "[[2025-07-23 Session Note]]"
 ---
-
 
 > [!data-layer]- Metadata
 >
@@ -37,38 +21,42 @@ locations:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |Map Tack|`INPUT[number:maptack]`|
-# The Bastards
+> | **Session** |`INPUT[number:session]`|
+> | **Last Session** |`INPUT[text:lastSession]`|
+
 > [!infobox | right]+
-> # The Bastards
-> `VIEW[{img}][image]`
-> ## Notables
+> # 2025-07-30 Session Note
 > |  Information | Links |
 > | --- | --- |
+> | **Session** | `VIEW[{session}][text(renderMarkdown)]` |
+> | **Last Session** | `VIEW[{lastSession}][text(renderMarkdown)]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Raw Notes
 
+we tried to trade for more consumable magic items.
+those are rare as fuck. 
 
-> [!column]
->>  ## Description
->> `VIEW[{description}][text(renderMarkdown)]`
->
->> ## Additional Notes
->> ![[Pasted image 20250730204322.png]]
->> 
+These Items are called [[mysteries]] 
+[[Gurk]] tells us he thinks the items are from dead gods. he lets us know if we want more to go to the [[Order of Cheol]]
 
-#### Scratchpad
+the other theory is that gods create them to temp people into worship.
+the halbred was made by [[Gurk]]
+he seems excited to trade it.
+he offeres a magic sword to ajax that deals more damage on a crit but also hurts the user on the crit
 
+Ajax accepts the trade gurk questions our sanity
 
+we broker some more trades, 
+he offered the name of his mentor as extra value for the trade. 
+we try to trade chainmail, its mithril , made for sneaky sneaky.
 
-There are several statues reaching towards each other as if they were going to embrace. they are halfway submerged. roughly 1000 feet is above the water. they are partially in the shore. below there is lots of bioluminescence.
-there is merriment and festivities happening. 
+there was a LOT of haggling.
 
-burning man.
+he lets us know we have beads of fireball
 

@@ -5,20 +5,16 @@ tags:
   - Location
 icon: FasEarthAmericas
 aliases: []
-img: Pasted image 20250730204322.png
-npcs:
-  - "[[Gurk]]"
-  - "[[Gillium]]"
-  - "[[Llyrah]]"
+img: z_config/images/missing.jpg
+npcs: 
 items: 
 overview: ""
 cssclasses:
   - wide-table
 pronunciation: ""
-description: on the shore there are two large formation. remnants of long lost civilizations. two giant statues facing each other. a settlement formed there. this is a large [[The Lyre|Lyrebird]] population.
-maptack: 8
-groups:
-  - "[[The Lyre]]"
+description: ""
+maptack: 0
+groups: []
 locations:
   - "[[The Dim]]"
 ---
@@ -38,9 +34,9 @@ locations:
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |Map Tack|`INPUT[number:maptack]`|
-# The Bastards
+# The Stone Ward
 > [!infobox | right]+
-> # The Bastards
+> # The Stone Ward
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
@@ -60,15 +56,12 @@ locations:
 >> `VIEW[{description}][text(renderMarkdown)]`
 >
 >> ## Additional Notes
->> ![[Pasted image 20250730204322.png]]
+>> 
 >> 
 
 #### Scratchpad
 
 
 
-There are several statues reaching towards each other as if they were going to embrace. they are halfway submerged. roughly 1000 feet is above the water. they are partially in the shore. below there is lots of bioluminescence.
-there is merriment and festivities happening. 
 
-burning man.
-
+A sturdy Inn. 

@@ -2,28 +2,28 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - Location
-icon: FasEarthAmericas
+  - NPC
+icon: FasUserAstronaut
+iconColor: 
 aliases: []
-img: Pasted image 20250730204322.png
-npcs:
-  - "[[Gurk]]"
-  - "[[Gillium]]"
-  - "[[Llyrah]]"
-items: 
-overview: ""
-cssclasses:
-  - wide-table
-pronunciation: ""
-description: on the shore there are two large formation. remnants of long lost civilizations. two giant statues facing each other. a settlement formed there. this is a large [[The Lyre|Lyrebird]] population.
-maptack: 8
-groups:
-  - "[[The Lyre]]"
-locations:
-  - "[[The Dim]]"
+Personality: []
+Nimbus: ""
+Path: none
+Order: none
+img: z_config/images/missing.jpg
+arcana: []
+gnosis: 1
+items: []
+locations: []
+pronunciation: " "
+motivation: ""
+weakness: ""
+nimbusSignature: ""
+nimbusImmediate: ""
+nimbusLongTerm: ""
+traits: []
+description: ""
 ---
-
-
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -37,38 +37,38 @@ locations:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |Map Tack|`INPUT[number:maptack]`|
-# The Bastards
+> |**Motivations** |`INPUT[textArea:motivation]`|
+> |**Weaknesses** |`INPUT[textArea:weakness]`|
+
+# Gurk
 > [!infobox | right]+
-> # The Bastards
-> `VIEW[{img}][image]`
-> ## Notables
+> # Gurk
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
 
-
-> [!column]
->>  ## Description
->> `VIEW[{description}][text(renderMarkdown)]`
+> [!column|2 no-title]
 >
->> ## Additional Notes
->> ![[Pasted image 20250730204322.png]]
+>>
+>>### Description
+>>  `VIEW[{description}][text(renderMarkdown)]`
+>>  ### Traits
+>> `VIEW[{traits}][text(renderMarkdown)]`
+>
 >> 
+>> `INPUT[imageSuggester(optionQuery("")):img]`
+
 
 #### Scratchpad
 
 
 
-There are several statues reaching towards each other as if they were going to embrace. they are halfway submerged. roughly 1000 feet is above the water. they are partially in the shore. below there is lots of bioluminescence.
-there is merriment and festivities happening. 
 
-burning man.
 
+
+fresh manicure goblin. enchanter.

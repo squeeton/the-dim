@@ -388,5 +388,31 @@
   "NPCs/Llyrah.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2025-07-30 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Gurk.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Blood Beard.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Singer.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Falcon.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Bismuth.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/The Stone Ward.md": {
+    "iconName": "FasEarthAmericas"
   }
 }
