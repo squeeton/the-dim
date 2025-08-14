@@ -103,7 +103,7 @@ i ihad a large moment of stupidity.
 
 this statue looks like a man laughing stepping off the road to let something pass.
 
-we found a clear line in the area where living things became scorced earth. nothing seems like it is growing [[Blackcap]]
+we found a clear line in the area where living things became scorced earth. nothing seems like it is growing
 this blight seems to urge us down the road.
 
 pulled wrinkles in cloth in the furrows. there is a glow deep within
