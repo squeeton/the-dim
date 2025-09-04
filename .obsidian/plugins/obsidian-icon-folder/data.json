@@ -420,5 +420,16 @@
   },
   "~Sessions/2025-08-13 Session Note.md": {
     "iconName": "FasBook"
+  },
+  "~Sessions/2025-09-03 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Groups/Weapers.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/Curse Binder.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }

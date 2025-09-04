@@ -123,10 +123,10 @@ then the voice yells get pied and runs off.
 the custard was good.
 
 
-when we got back [[Llyrah]] was on break and would aknowledge us. i tried threatening to leave the amulet.
+when we got back [[Llyrah]] was on break and wouldnt aknowledge us. i tried threatening to leave the amulet.
 
 
-gurk looks over the brush and pallete. and says its not magic.
+gurk looks over the brush and pallete. and says its not magic. he wanted to trade for it.
 he says its weird, magical but not intentional
 
 we drew the runes and gurl immediately rescinded his offer.
