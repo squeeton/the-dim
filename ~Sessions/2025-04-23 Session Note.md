@@ -39,7 +39,7 @@ lastSession: "[[2025-04-16 Session Note]]"
 > 
 ## Raw Notes
 
-we arrived att [[Reedwatch]]
+we arrived att [[Reedswatch]]
 
 
 
@@ -74,7 +74,7 @@ we asked about nearby settlements and got
 when pressed about the odd timing of our arrival.
 she considered the events connected from the [[Elryc Frost]] and our story.
 
-I remember there was a terrible fire in [[Reedwatch]] about 10 years
+I remember there was a terrible fire in [[Reedswatch]] about 10 years
 [[Sifter Jan]] had no recollection of this. nothing of it in their entire history.
 
 [[Ajax]] got us some nuts from a child in exchange for 10 ft of rope.
@@ -82,7 +82,7 @@ I remember there was a terrible fire in [[Reedwatch]] about 10 years
 we went to the market, to get supplies and just checked what was available.
 
 we were able to get information.
-a person in [[Reedwatch]] who can teach how to use weapons. theyre secretive, but can teach.
+a person in [[Reedswatch]] who can teach how to use weapons. theyre secretive, but can teach.
 this weaponmaster is [[Nyello Frost]], and his establishment of [[Reed's Rest]]
 to get in his good graces, he like rare foods and drinks. Quite the palate.
 

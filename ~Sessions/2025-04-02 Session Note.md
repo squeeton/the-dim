@@ -100,7 +100,7 @@ it says it doesn't want our tainted land and turns to leave.
 
 i end up brushing the scales. my [[Vveird|vveird]] leaves some magic behind on the touch. it was cold to the touch. 
 
-we decided to head towards [[Reedwatch]]
+we decided to head towards [[Reedswatch]]
 near bedtime a waylight up ahead there is a 2 wheeled cart being pulled by a [[Gaunt]]  his gaunt is named steven. its holding a tarp covered cart. its currently headed away from us. carts are rare. we've never seen one but heard storied.
 we dont see a rider. 
 

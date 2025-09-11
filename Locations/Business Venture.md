@@ -6,14 +6,14 @@ tags:
 icon: FasEarthAmericas
 aliases: []
 img: z_config/images/missing.jpg
-npcs: 
-items: 
+npcs:
+items:
 overview: ""
 cssclasses:
   - wide-table
 pronunciation: ""
 description: ""
-maptack: 4
+maptack: 12
 groups: []
 locations:
   - "[[The Dim]]"
@@ -34,9 +34,9 @@ locations:
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |Map Tack|`INPUT[number:maptack]`|
-# Reed's Rest
+# Business Venture
 > [!infobox | right]+
-> # Reed's Rest
+> # Business Venture
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
@@ -64,11 +64,3 @@ locations:
 
 
 
-A Local Inn in [[Reedswatch]]
-lots of windows, merry sounding place. a jolly in.
-
-modest stage with performers.
-large tank of brown murky water in glass.
-murky water with plants and dirt on bottom. wooden jug next to it. 
-
-behind the bar 

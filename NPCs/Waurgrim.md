@@ -4,7 +4,7 @@ dg-publish: false
 tags:
   - NPC
 icon: FasUserAstronaut
-iconColor: 
+iconColor:
 aliases: []
 Personality: []
 Nimbus: ""
@@ -15,7 +15,7 @@ arcana: []
 gnosis: 1
 items: []
 locations:
-  - "[[Reedwatch]]"
+  - "[[Reedswatch]]"
   - "[[Undercroft]]"
 pronunciation: " "
 motivation: ""

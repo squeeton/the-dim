@@ -122,6 +122,8 @@ one of the forgotten has taken residence.
 not everyone is dead. just changed.
 
 
-in [[Reedwatch]] there are whispers the [[Undercroft]] has vanished.
+in [[Reedswatch]] there are whispers the [[Undercroft]] has vanished.
 
 we learned of silver hurting werewolves. its very rare in the dim.
+
+Another one of the beasts is coming after us.

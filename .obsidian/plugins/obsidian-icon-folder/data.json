@@ -208,9 +208,6 @@
   "~Sessions/2025-04-23 Session Note.md": {
     "iconName": "FasBook"
   },
-  "Locations/Reedwatch.md": {
-    "iconName": "FasEarthAmericas"
-  },
   "Locations/Sunder.md": {
     "iconName": "FasEarthAmericas"
   },
@@ -431,5 +428,18 @@
   "Groups/Curse Binder.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2025-09-10 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Locations/Business Venture.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "NPCs/Jasinka Wells.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Reedswatch.md": {
+    "iconName": "FasEarthAmericas"
   }
 }
