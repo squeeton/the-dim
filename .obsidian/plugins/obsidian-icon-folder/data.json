@@ -441,5 +441,16 @@
   },
   "Locations/Reedswatch.md": {
     "iconName": "FasEarthAmericas"
+  },
+  "~Sessions/2025-09-17 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Big Bartha.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/The Lemur.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }
