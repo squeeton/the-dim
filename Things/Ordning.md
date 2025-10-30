@@ -1,32 +1,16 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-dg-publish: false
-tags:
-  - NPC
-icon: FasUserAstronaut
-iconColor:
-aliases: []
-Personality: []
-Nimbus: ""
-Path: none
-Order: none
-img: z_config/images/missing.jpg
-arcana: []
-gnosis: 1
-items: []
-locations:
-  - "[[Reedswatch]]"
-pronunciation: " "
-motivation: ""
-weakness: ""
-nimbusSignature: ""
-nimbusImmediate: ""
-nimbusLongTerm: ""
-traits: []
+img: z_config/images/ImagePlaceholder.png
+uses: ""
 description: ""
-groups:
-  - "[[Soul Binders]]"
+pronunciation: ""
+mysteries: []
+weight: ""
+price: ""
+aliases: []
+tags:
+  - Item
 ---
+
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -40,12 +24,15 @@ groups:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Motivations** |`INPUT[textArea:motivation]`|
-> |**Weaknesses** |`INPUT[textArea:weakness]`|
-
-# asinka Wells
+> |**Uses** |`INPUT[textArea:uses]`|
+> |**Weight** |`INPUT[text:weight]`|
+> |**Price** |`INPUT[text:price]`|
+> |**Type** |`INPUT[Type][inlineListSuggester:type]`|
+# Ordning
 > [!infobox | right]+
-> # asinka Wells
+> # Ordning
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -55,23 +42,23 @@ groups:
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 
+
 > [!column|2 no-title]
->
+>> ### Description
+>> `VIEW[{description}][text(renderMarkdown)]`
 >>
->>### Description
->>  `VIEW[{description}][text(renderMarkdown)]`
->>  ### Traits
->> `VIEW[{traits}][text(renderMarkdown)]`
+>> ### Uses
+>> `VIEW[{uses}][text(renderMarkdown)]`
 >
->> 
->> `INPUT[imageSuggester(optionQuery("")):img]`
+>> |  Detail | Info |
+>> | --- | --- |
+>> | **Weight** | `VIEW[{weight}][link]` |
+>> | **Price** | `VIEW[{price}][link]` |
+>> | **Type** | `VIEW[{type}][link]` |
 
 
 #### Scratchpad
 
 
 
-
-
-
-Cursebinder for [[Reedswatch]]
+the is the pantheon of giant gods.

@@ -67,7 +67,7 @@ its also not a haunting
 
 she doesnt know the [[Undercroft]] shes heard of tunnels.
 
-there was a person names Samson who used to be unruly. but is now the guard captain.
+there was a person names Wesley who used to be unruly. but is now the guard captain.
 
 people are too despondant for a proper interrogation.
 

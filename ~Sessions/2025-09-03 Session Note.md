@@ -78,7 +78,7 @@ she gave us a vial with a few drops. something that can suppress a haunting for 
 
 she said her order was throughout [[The Dim]]
 
-she shows us a small design that indicated her order. it looks like a knot. she is a [[Curse Binder]]
+she shows us a small design that indicated her order. it looks like a knot. she is a [[Soul Binders]]
 we're capable. je'tah's or curse finders.
 
 

@@ -4,7 +4,7 @@ dg-publish: false
 tags:
   - NPC
 icon: FasUserAstronaut
-iconColor:
+iconColor: 
 aliases: []
 Personality: []
 Nimbus: ""
@@ -14,8 +14,7 @@ img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
-locations:
-  - "[[Reedswatch]]"
+locations: []
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -24,8 +23,6 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-groups:
-  - "[[Soul Binders]]"
 ---
 > [!data-layer]- Metadata
 >
@@ -43,9 +40,9 @@ groups:
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# asinka Wells
+# Invjorm
 > [!infobox | right]+
-> # asinka Wells
+> # Invjorm
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -74,4 +71,4 @@ groups:
 
 
 
-Cursebinder for [[Reedswatch]]
+manefestion of greif and death.

@@ -4,7 +4,7 @@ dg-publish: false
 tags:
   - NPC
 icon: FasUserAstronaut
-iconColor:
+iconColor: 
 aliases: []
 Personality: []
 Nimbus: ""
@@ -14,8 +14,7 @@ img: z_config/images/missing.jpg
 arcana: []
 gnosis: 1
 items: []
-locations:
-  - "[[Reedswatch]]"
+locations: []
 pronunciation: " "
 motivation: ""
 weakness: ""
@@ -24,8 +23,6 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-groups:
-  - "[[Soul Binders]]"
 ---
 > [!data-layer]- Metadata
 >
@@ -43,9 +40,9 @@ groups:
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# asinka Wells
+# Samson
 > [!infobox | right]+
-> # asinka Wells
+> # Samson
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -72,6 +69,5 @@ groups:
 
 
 
+captain of the gaurd in [[Reedswatch]]
 
-
-Cursebinder for [[Reedswatch]]

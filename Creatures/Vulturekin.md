@@ -2,38 +2,30 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - Location
-icon: FasEarthAmericas
+  - Creature
+icon: FasUserAstronaut
+iconColor: 
 aliases: []
+Personality: []
+Nimbus: ""
+Path: none
+Order: none
 img: z_config/images/missing.jpg
-npcs:
-  - "[[Elryc Frost]]"
-  - "[[Sifter Jan]]"
-  - "[[Nyello Frost]]"
-  - "[[Jasinka Wells]]"
-items:
-overview: ""
-cssclasses:
-  - wide-table
-pronunciation: ""
-description: |-
-  was an outpost that became a settlement
-  buildings are out on the marsh built on top of the [[Marrow Cane]] as stilts
-  eventually grew into a larger settlement
-
-  they are known for the [[Marrow Cane]]
-
-  they too rigid like they have a stick up their....
-maptack: 4
-locations:
-  - "[[The Dim]]"
-  - "[[Under The Lily]]"
-  - "[[Reed's Rest]]"
-groups:
-  - "[[Fingersmiths]]"
+arcana: []
+gnosis: 1
+items: []
+locations: []
+pronunciation: " "
+motivation: ""
+weakness: ""
+nimbusSignature: ""
+nimbusImmediate: ""
+nimbusLongTerm: ""
+traits: []
+description: ""
+defenses: ""
+uses: ""
 ---
-
-
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -47,44 +39,39 @@ groups:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |Map Tack|`INPUT[number:maptack]`|
-# Reedwatch
+> |**Uses** |`INPUT[textArea:uses]`|
+> |**Defenses** |`INPUT[textArea:defenses]`|
+
+# Vulturekin
 > [!infobox | right]+
-> # Reedwatch
+> # Vulturekin
 > `VIEW[{img}][image]`
 > ## Notables
-> | Description |  Links |
-> | ---- | --- |
+> |  Information | Links |
+> | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
-> | **Map Tack** | `VIEW[{maptack}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
 
->>### Overview
->>| Map Tack | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{maptack}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
->>
->> ### Description
->> `VIEW[{description}][text(renderMarkdown)]`
-# What's Here
 > [!column|2 no-title]
 >
 >>
->> ### NPCs
->> `VIEW[{npcs}][link]`
->>  
+>> ### Overview
+>>| Pronunciation | Also Known AS|
+>>| ----- | ----- |
+>>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
+>>### Description
+>>  `VIEW[{description}][text(renderMarkdown)]`
+>>### Uses
+>>  `VIEW[{uses}][text(renderMarkdown)]`
+>>### Defenses
+>>  `VIEW[{defenses}][text(renderMarkdown)]`
 >
->
->> ### Items
->> `VIEW[{items}][link]`
+>> 
+>> `INPUT[imageSuggester(optionQuery("")):img]`
 
-## Additional Details
-
-this place has large walls
-and captured bioluminecense .
-the gate has a contigency of gaurd to keep watch. 
+#### Scratchpad
+vulture style kenku
