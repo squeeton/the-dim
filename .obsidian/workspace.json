@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~Sessions/2025-10-29 Session Note.md",
+                "file": "~Sessions/2025-11-05 Session Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-29 Session Note"
+              "title": "2025-11-05 Session Note"
             }
           }
         ],
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Sessions/2025-10-29 Session Note.md",
+                "file": "~Sessions/2025-11-05 Session Note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-29 Session Note"
+              "title": "Outgoing links from 2025-11-05 Session Note"
             }
           },
           {
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,36 +202,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cdb659b469cdcb3f",
+  "active": "4bc89a9d38a3937e",
   "lastOpenFiles": [
-    "NPCs/Invjorm.md",
+    "~Sessions/2025-04-02 Session Note.md",
+    "Creatures/Sledgebores.md",
+    "Creatures/Shoveltooth Boar.md",
+    "~Sessions/2025-03-26 Session Note.md",
+    "~Sessions/2025-03-04 Session Note.md",
+    "~Sessions/2025-11-05 Session Note.md",
+    "Creatures/Shadehound.md",
+    "Locations/Monestary.md",
+    "Things/Updrip.md",
+    "~Sessions/2025-09-24 Session Note.md",
+    "~Sessions/2025-10-01 Session Note.md",
+    "~Sessions/2025-10-15 Session Note.md",
     "~Sessions/2025-10-29 Session Note.md",
+    "~Dashboard.md",
+    "NPCs/Tavrey Gilford.md",
+    "NPCs/Invjorm.md",
     "Things/Ordning.md",
     "NPCs/Jasinka Wells.md",
     "Locations/Reedswatch.md",
-    "~Dashboard.md",
     "~Sessions/2025-09-10 Session Note.md",
     "~Sessions/2025-09-17 Session Note.md",
-    "~Sessions/2025-10-01 Session Note.md",
-    "~Sessions/2025-10-15 Session Note.md",
-    "~Sessions/2025-09-24 Session Note.md",
     "~Sessions/2025-09-03 Session Note.md",
-    "~Sessions/2025-03-04 Session Note.md",
     "z_config/templates/Template - Session.md",
-    "~Sessions/2025-03-26 Session Note.md",
     "~Sessions/Thebes",
     "Pasted image 20251015203413.png",
     "Things/Scattershot.md",
     "Creatures/Vulturekin.md",
     "NPCs/Samson.md",
-    "Groups/Soul Binders.md",
-    "NPCs/The Lemur.md",
-    "NPCs/Big Bartha.md",
-    "Locations/Business Venture.md",
-    "Locations/Reed's Rest.md",
-    "~Sessions/2025-08-13 Session Note.md",
-    "Locations/Sunder.md",
-    "~Sessions/2025-07-30 Session Note.md",
     "Pasted image 20250730204322.png",
     "z_config/images/steed.jpg",
     "z_config/images/Pasted image 20250430212352.png",

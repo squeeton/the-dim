@@ -1,32 +1,16 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-dg-publish: false
-tags:
-icon: FasUserAstronaut
-iconColor:
-aliases:
-  - sludgebore
-  - sledgeboar
-Personality: []
-Nimbus: ""
-Path: none
-Order: none
-img: z_config/images/missing.jpg
-arcana: []
-gnosis: 1
-items: []
-locations: []
-pronunciation: " "
-motivation: ""
-weakness: ""
-nimbusSignature: ""
-nimbusImmediate: ""
-nimbusLongTerm: ""
-traits: []
-description: ""
-defenses: ""
+img: z_config/images/ImagePlaceholder.png
 uses: ""
+description: ""
+pronunciation: ""
+mysteries: []
+weight: ""
+price: ""
+aliases: []
+tags:
+  - Item
 ---
+
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -41,11 +25,12 @@ uses: ""
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
 > |**Uses** |`INPUT[textArea:uses]`|
-> |**Defenses** |`INPUT[textArea:defenses]`|
-
-# faax
+> |**Weight** |`INPUT[text:weight]`|
+> |**Price** |`INPUT[text:price]`|
+> |**Type** |`INPUT[Type][inlineListSuggester:type]`|
+# Updrip
 > [!infobox | right]+
-> # faax
+> # Updrip
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
@@ -57,22 +42,23 @@ uses: ""
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 
+
 > [!column|2 no-title]
->
+>> ### Description
+>> `VIEW[{description}][text(renderMarkdown)]`
 >>
->> ### Overview
->>| Pronunciation | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
->>### Description
->>  `VIEW[{description}][text(renderMarkdown)]`
->>### Uses
->>  `VIEW[{uses}][text(renderMarkdown)]`
->>### Defenses
->>  `VIEW[{defenses}][text(renderMarkdown)]`
+>> ### Uses
+>> `VIEW[{uses}][text(renderMarkdown)]`
 >
->> 
->> `INPUT[imageSuggester(optionQuery("")):img]`
+>> |  Detail | Info |
+>> | --- | --- |
+>> | **Weight** | `VIEW[{weight}][link]` |
+>> | **Price** | `VIEW[{price}][link]` |
+>> | **Type** | `VIEW[{type}][link]` |
+
 
 #### Scratchpad
-shoveltooh boar
+
+
+bioluminescent plant that drips upwards.
+

@@ -2,11 +2,10 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
+  - NPC
 icon: FasUserAstronaut
-iconColor:
-aliases:
-  - sludgebore
-  - sledgeboar
+iconColor: 
+aliases: []
 Personality: []
 Nimbus: ""
 Path: none
@@ -24,8 +23,6 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-defenses: ""
-uses: ""
 ---
 > [!data-layer]- Metadata
 >
@@ -40,14 +37,12 @@ uses: ""
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Uses** |`INPUT[textArea:uses]`|
-> |**Defenses** |`INPUT[textArea:defenses]`|
+> |**Motivations** |`INPUT[textArea:motivation]`|
+> |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# faax
+# Tavrey Gilford
 > [!infobox | right]+
-> # faax
-> `VIEW[{img}][image]`
-> ## Notables
+> # Tavrey Gilford
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -60,19 +55,19 @@ uses: ""
 > [!column|2 no-title]
 >
 >>
->> ### Overview
->>| Pronunciation | Also Known AS|
->>| ----- | ----- |
->>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
 >>### Description
 >>  `VIEW[{description}][text(renderMarkdown)]`
->>### Uses
->>  `VIEW[{uses}][text(renderMarkdown)]`
->>### Defenses
->>  `VIEW[{defenses}][text(renderMarkdown)]`
+>>  ### Traits
+>> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
+
 #### Scratchpad
-shoveltooh boar
+
+
+
+
+
+

@@ -70,28 +70,25 @@ we decided to give him the warriors funeral and burn him.
 we took some time to give him a proper send off.
 
 
-
-
-
-dream sequence --
-The giants speaks to me, his name is [[Invjorm]]
-I dreamt of home. as i get up, i notice a massive figure between me and the door.
-a deep voice asks me to sit, hes wearing a simple tunic with metal bands and runes scarred or tattooed onto him.
-he asks me who i would save. he expects a certain answer.
-i said ajax, anya, dirk.
-
-before he was replaced he was grief. in some kind of pantheon.
-the interloper took his place. took his power. perverted it.
-[[Waurgrim]] took his power and [[Invjorm]] wants it back.
-[[Waurgrim]] seeks the wrask. the end. 
-the [[Ordning]] must be preserved.
-
-he will reunite me with my brother if we find [[Waurgrim]] and restore the [[Ordning]]
+> [!Dream Sequence]
+> The giants speaks to me, his name is [[Invjorm]]
+> I dreamt of home. as i get up, i notice a massive figure between me and the door.
+> a deep voice asks me to sit, hes wearing a simple tunic with metal bands and runes scarred or tattooed onto him.
+> he asks me who i would save. he expects a certain answer.
+> i said ajax, anya, dirk.
+> 
+> before he was replaced he was grief. in some kind of pantheon.
+> the interloper took his place. took his power. perverted it.
+> [[Waurgrim]] took his power and [[Invjorm]] wants it back.
+> [[Waurgrim]] seeks the wrask. the end. 
+> the [[Ordning]] must be preserved.
+> 
+> he will reunite me with my brother if we find [[Waurgrim]] and restore the [[Ordning]]
 
 we decided anya would speak the the ghost.
 
 who are you
-he is [[Invjorm]] keeper of souls wayfarer of the dead.
+he is [[Invjorm]] keeper of the last key. wayfarer of the dead.
 
 how did you die
 painfully, by ritual most afoul
@@ -117,3 +114,4 @@ it actually worked.
 they woke up and asked for water. they're still riddled with holes.
 
 he freaked out when we told him who we were. he said we brought him the chest. and that we caused this. 
+

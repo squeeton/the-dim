@@ -2,11 +2,10 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
+  - Creature
 icon: FasUserAstronaut
-iconColor:
-aliases:
-  - sludgebore
-  - sledgeboar
+iconColor: 
+aliases: []
 Personality: []
 Nimbus: ""
 Path: none
@@ -43,9 +42,9 @@ uses: ""
 > |**Uses** |`INPUT[textArea:uses]`|
 > |**Defenses** |`INPUT[textArea:defenses]`|
 
-# faax
+# Shadehound
 > [!infobox | right]+
-> # faax
+> # Shadehound
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
@@ -75,4 +74,6 @@ uses: ""
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
 #### Scratchpad
-shoveltooh boar
+direwolf rotweiler
+ pony sized
+spore resistent coat

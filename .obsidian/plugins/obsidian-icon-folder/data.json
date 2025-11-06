@@ -476,5 +476,19 @@
   "NPCs/Invjorm.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2025-11-05 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Tavrey Gilford.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/Monestary.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Creatures/Shadehound.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }
