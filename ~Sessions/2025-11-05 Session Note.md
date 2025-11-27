@@ -89,14 +89,14 @@ how do we stop him?
 must kill him to stop him.
 
 where is cloudhaven?
-gates of the afterlife for his people.
+gates of the afterlife for giants.
 
 how to find the gate.
 **the horn shows the way**, but [[Waurgrim]] destroyed the horn.
 
 dont know how to fix the horn.
  language of his children. language of the [[Ordning]]
- cloud giants.
+ giants.
  
 we ask about Aalfjor and Bjirstella
 we ask super racistly if he knows them.

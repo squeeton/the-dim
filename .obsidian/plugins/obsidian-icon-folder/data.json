@@ -490,5 +490,17 @@
   "Creatures/Shadehound.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2025-11-26 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Andz.md": {
+    "iconName": "FasSpaghettiMonsterFlying"
+  },
+  "NPCs/Hykla.md": {
+    "iconName": "FasSpaghettiMonsterFlying"
+  },
+  "Locations/Everhall.md": {
+    "iconName": "FasEarthAmericas"
   }
 }
