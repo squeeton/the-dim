@@ -53,19 +53,19 @@ biggest stone on the right side. pry up the stone.
 
 [[Waurgrim]] said he was passing into cloudhaven.
 
-dirk truth punched the sick man, to make sure the new guy didnt lie to us.
+[[dirk]] truth punched the sick man, to make sure the new guy didnt lie to us.
 the man's name is [[Tavrey Gilford]].
 tavrey is scared of [[Waurgrim]]. he was brutal and ruled by an iron fist.
 the man was using the truth punch as an excuse to give his true feelings on a lot of things.
 
 i incorrectly direct us to the secret rock.
 
-ajax was able to open the rock door and we made our way through the tunnel.
+[[Ajax]] was able to open the rock door and we made our way through the tunnel.
 
 I locate objects to find the chest. its 20ft into the fallen dirt.
 we eventually make our way into the room containing the chest.
 
-darius finds some remains under the chest. we dig out the remains and 
+[[darius]] finds some remains under the chest. we dig out the remains and 
 i wack the chest with the skeletons and shatter the chest.
 inside there is a blowing horn. with a charred mouthpeice
 inside the stone is a melted handprint.
@@ -73,13 +73,13 @@ inside the stone is a melted handprint.
 i decided to take the skull spine.
 
 it spoke.  only i could understand it.
-i cast tongues on dirk.
+i cast tongues on [[dirk]].
 
-dirk asked better questions.
+[[dirk]] asked better questions.
 
 [[Waurgrim]] is headed to cloudhaven
 
-dirk asked some more questions.
+[[dirk]] asked some more questions.
 
 
 how do we find wargrim?
@@ -103,7 +103,7 @@ we ask super racistly if he knows them.
 
 we are to seek out giants and ask them how to fix the horn.
 
-dirk secured help for pic to make sure he's taken care of after we leave.
+[[dirk]] secured help for [[pic]] to make sure he's taken care of after we leave.
 
 keep track of the traits and look for them to manifest.
 lots of [[Updrip]]
@@ -128,6 +128,29 @@ there was a [[Shadehound]] being hunted by  [[Shoveltooth Boar]]s
 it is wounded, and sprints by being chased by [[Shoveltooth Boar]]s
 
 we had to make wis saves.
-anya lost and had to tell her what she was thinking about and some entity is pleased with anyas arsonic tendencies.
+[[anya]] lost and had to tell her what she was thinking about and some entity is pleased with anyas arsonic tendencies.
 
 there is a woman standing in the road. dreadlocks, bare feet, sheathes, daggers, bone.
+
+we have dreams of being hunted by [[Hykla]]
+
+we find thornrush
+a brambley brush with long fang like spines. its choking out other plants.
+as we move we can hear chewing sounds. the sounds of carcasses being eaten.
+
+impaled on the spines are a couple humanoids
+this couple of werewolves are being prometheused. in a state of healing permenant damage. they are put there as an example.
+
+we saw through the thorns to free these people.
+they have trouble communicating. 
+they ask about us and we tell them we're here to kill [[Hykla]]
+
+the woman hunches over and protects the man. i offer them water and they drink it greedily.
+
+theyre not werewolves by choice.
+they were strung up because they refused the hunt. they were punished by [[Hykla]]
+
+everything that hunts hykla sees.
+we cannot surprise him.
+i gave them some supplies.
+they are unsure what causes the curse to take effect.

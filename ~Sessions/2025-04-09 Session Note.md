@@ -61,11 +61,11 @@ we killed two and the third surrendered. we decided to spare his life, feed him,
 the noblin decided to follow us. 
 we got the rest of the truffles.
 
-the noblin wanted me to heal his friend but i could not. we have deemed the noblin to be named [[Name]].
+the noblin wanted me to heal his friend but i could not. we have deemed the noblin to be named [[Naymme]].
 
 when we got back [[Boil]] was moving some of the peat bricks.
 
-[[Boil]] is unamused with us taking in [[Name]]
+[[Boil]] is unamused with us taking in [[Naymme]]
 
 [[Vveird]] has expressions that linger after magical effects. he hints others would know more, but they would be in [[The Mire]].
 we have a connection to the origination of our [[Vveird]]. so all of us share the same "signature"
@@ -77,7 +77,7 @@ askeed about ghost.
 we released a spirit. let it move on.
 
 the arrow is [[Vveird]] touched. he is curious what would happen if we broke it.
-the only one who can identify [[mysteries]] are [[Shale]]
+the only one who can identify [[mysteries]] are [[The Shale]]
 
 [[Anya]] Snaps the arrow to gain the benifit. she gets +1 to her strength.
 

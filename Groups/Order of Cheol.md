@@ -4,7 +4,7 @@ dg-publish: false
 tags:
   - Group
 icon: FasUserAstronaut
-iconColor: 
+iconColor:
 aliases:
   - " "
 Personality: []
@@ -13,7 +13,7 @@ Path: none
 Order: none
 img: z_config/images/ImagePlaceholder.png
 arcana: []
-gnosis: 
+gnosis:
 items: []
 locations: []
 pronunciation: " "
@@ -23,7 +23,20 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
+description: |-
+  they are concerned with civilizations of the past.
+  particularly those involved in The Vveird
+  they can read
+
+  Attracts individuals of two primary traits
+  curiosity and vengeance
+
+  most are scholars.
+  you must make a promise when entering the order.
+  this will usually have a promise dealing with an other
+
+  when they complete their promise they are promoted to promise keeper
+  and they become teachers and well regarded.
 philosophy: ""
 methods: ""
 mysteries: []

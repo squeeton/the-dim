@@ -134,7 +134,7 @@ we drew the runes and gurl immediately rescinded his offer.
 these marking are from an old power. has to do with demons.written in infernal.
 
 
-waurgrim known exile [[Order of Cheol]]
+[[waurgrim]] known exile [[Order of Cheol]]
 up to no good
 high on the list of watchers
 bad reputation.

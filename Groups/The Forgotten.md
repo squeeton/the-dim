@@ -2,18 +2,19 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - NPC
 icon: FasUserAstronaut
-iconColor: 
+iconColor:
 aliases:
-  - Jormy
+  - " "
+  - Lost Ones
+  - Gods
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/missing.jpg
+img: z_config/images/ImagePlaceholder.png
 arcana: []
-gnosis: 1
+gnosis:
 items: []
 locations: []
 pronunciation: " "
@@ -23,7 +24,21 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: ""
+description: |-
+  they walk around [[The Dim]] once beings of great power but lost it. they can change shape, but they have golden eyes. they get small details wrong. 
+  best to forget the lost. they dont like the living. they stay in the shadows and muck. they stay away from the way lights.
+  assumed jealous of the living.
+
+  used to be gods. they used to be worshipped. 
+
+  existence is questionable
+
+  they are still immortal but lost their minds. they have gone mad.
+  went mad from lack of worship
+philosophy: ""
+methods: ""
+mysteries: []
+npcs: []
 ---
 > [!data-layer]- Metadata
 >
@@ -38,12 +53,13 @@ description: ""
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Motivations** |`INPUT[textArea:motivation]`|
-> |**Weaknesses** |`INPUT[textArea:weakness]`|
-
-# Lost
+> |**Philosophy** |`INPUT[textArea:philosophy]`|
+> |**Methods** |`INPUT[textArea:methods]`|
+# The Forgotten
 > [!infobox | right]+
-> # Lost
+> # Lost Ones
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -55,17 +71,37 @@ description: ""
 
 > [!column|2 no-title]
 >
+>>| Pronunciation | Also Known AS|
+>>| ----- | ----- |
 >>
->>### Description
+>> ### Description
 >>  `VIEW[{description}][text(renderMarkdown)]`
->>  ### Traits
->> `VIEW[{traits}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-
+# Details
+> [!column|2 no-title]
+>
+>>
+>> ### Philosophy
+>> `VIEW[{philosophy}][text(renderMarkdown)]`
+>>  
+>
+>> ### Methods
+>> `VIEW[{methods}][text(renderMarkdown)]`
 #### Scratchpad
+
+
+
+
+
+
+
+
+
+
+
 
 
 

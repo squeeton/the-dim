@@ -116,7 +116,7 @@ I decided to try [[Tang]].
 they dont know about what we're doing but they appreciate that it's important to us.
 
 they seek to kill big serpent that woke recently.
-i pointed them to [[Lost|jormy]]. they want to kill them for song. song of revenge. he did lots of damage to their village.
+i pointed them to [[Jormy|jormy]]. they want to kill them for song. song of revenge. he did lots of damage to their village.
 
 [[Dirk]] asked about [[Order of Cheol]].
 they haven't heard or seen them.

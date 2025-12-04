@@ -30,7 +30,7 @@ locations:
   - "[[Under The Lily]]"
   - "[[Reed's Rest]]"
 groups:
-  - "[[Fingersmiths]]"
+  - "[[The Fingersmiths]]"
 ---
 
 

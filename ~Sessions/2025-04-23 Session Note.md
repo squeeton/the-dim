@@ -50,7 +50,7 @@ he said they havent seen anyone from [[Hardmire]] in over 100 years
 
 all the hardmoss comes from [[Sunder]]
 
-they want us to talk to someone higher up. they want us to talk to the [[Sifter]]. 
+they want us to talk to someone higher up. they want us to talk to the [[The Sifters]]. 
 the Sifter investigates and sifts for the truth. 
 
 we are led to [[Sifter Jan]], she invited us into the house.
@@ -103,7 +103,7 @@ none of us know what it is.
 
 [[Dirk]] told the old lady that we couldnt find meats.
 everyone keeps asking us where we're from.
-she was worried about [[Fingersmiths]] taking her. so she wanted us to walk her home. when we offered she said she wanted to stay until late.
+she was worried about [[The Fingersmiths]] taking her. so she wanted us to walk her home. when we offered she said she wanted to stay until late.
 
 we had a large misunderstanding about the exotic meats.
 the lady was crocheting a scarf. the last one was ruined in a [[Sporefall]]

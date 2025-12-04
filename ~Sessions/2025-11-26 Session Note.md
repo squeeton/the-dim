@@ -55,19 +55,19 @@ the death of her brother is how the Imhain ends
 
 [[Andz]] wants us to kill.
 
-she handed me various bits and bobs
+she handed [[Darius|me]] various bits and bobs
 
 i decided to try to sing her song. she did not like that i said i wanted to protect people
 I end up crafting a doll of [[Hykla]] a small person with antlers.
 
 [[Andz]] hums along and enjoys the song.
 
-the party debates god slaying again.
-anya reads minds, andz is nostalgia tripping.
+[[the party]] debates god slaying again.
+[[anya]] reads minds, [[andz]] is nostalgia tripping.
 
 we decided to finish the song. it takes 24hrs. as i sing the effigy becomes better.
 
-when we engage hykla, breaking the effigy will deal half the hp of hykla to him.
+when we engage [[hykla]], breaking the effigy will deal half the hp of [[hykla]] to him.
 
 after the song she hummed and walked away.
 
@@ -75,18 +75,18 @@ the void between the moon and the sun will consume all.
 
 there will be no need for hunting, no need for killing
 
-we eventually let her go. dirk lies about wanting to kill
+we eventually let her go. [[dirk]] lies about wanting to kill
 
 we contemplate if the apocalypse comes when we kill them both.
 
 we find some basilisk roadkill
 
-ajax lets us know about how dangerous they are. something killed it for fun. lots of slashing.
+[[ajax]] lets us know about how dangerous they are. something killed it for fun. lots of slashing.
 
 
 
 there was a worm thing in there and it attacked us.
-anya blew it the fuck up.
+[[anya]] blew it the fuck up.
 then it vomited on us. refused to elaborate and left.
 
 we healed up (mostly) and continued on
@@ -94,7 +94,7 @@ we healed up (mostly) and continued on
 lots of animal deaths on the trail. lots of killing for fun.
 
 in the distance there is a silhouette of a man tracing a rectangle and opening a magic door.
-dirk and anya went to investigate
+[[dirk]] and [[anya]] went to investigate
 listening they hear a lot of clicking.
 
 as they entered the tiny dwelling they shrunk until it was properly sized

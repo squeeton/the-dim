@@ -4,7 +4,7 @@ dg-publish: false
 tags:
   - NPC
 icon: FasUserAstronaut
-iconColor: 
+iconColor:
 aliases: []
 Personality: []
 Nimbus: ""
@@ -26,7 +26,7 @@ traits: []
 description: "A small man creature with sharp teeth and gangly limbs. He seems to know a lot about [[Vveird]]. He told us he would teach us to control it if we took his pet pig on a walk. "
 npcs:
   - "[[Bask]]"
-  - "[[Name]]"
+  - "[[Naymme]]"
 ---
 > [!data-layer]- Metadata
 >

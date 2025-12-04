@@ -63,7 +63,7 @@ he seems to really need us to ge there so he stops losing money
  they said [[Furcules]] couldnt come in. and i had him guard the gate with the guards. 
 
 i ask about a reward. 
-we ask about a [[Soul Binders]]
+we ask about a [[The Soul Binders]]
 and we are told were to find her.
 her name is [[Jasinka Wells]]
 she has tumors, scars, burns, and vitalago.

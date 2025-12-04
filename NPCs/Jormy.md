@@ -4,8 +4,9 @@ dg-publish: false
 tags:
   - NPC
 icon: FasUserAstronaut
-iconColor: 
-aliases: []
+iconColor:
+aliases:
+  - Lohst
 Personality: []
 Nimbus: ""
 Path: none
@@ -40,9 +41,9 @@ description: ""
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Blood Beard
+# Lost
 > [!infobox | right]+
-> # Blood Beard
+> # Lost
 > |  Information | Links |
 > | --- | --- |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
@@ -71,4 +72,3 @@ description: ""
 
 
 
-a mysterious man who sent an assassin after us/me=

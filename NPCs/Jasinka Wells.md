@@ -25,7 +25,7 @@ nimbusLongTerm: ""
 traits: []
 description: ""
 groups:
-  - "[[Soul Binders]]"
+  - "[[The Soul Binders]]"
 ---
 > [!data-layer]- Metadata
 >

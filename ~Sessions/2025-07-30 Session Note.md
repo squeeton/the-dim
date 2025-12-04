@@ -73,11 +73,11 @@ looting the body they found a couple clay pots and leather armor.
 
 inside the sheath was an oily substance. when Dirk sniffed it he started crying uncontrollably.
 
-the crowd comforts me and directs us to [[Singer]] Brutus
+the crowd comforts me and directs us to [[The Singers]] Brutus
 we had a conversation with an autistic child.
 
-we have to wait for the [[Falcon]] to come ask questions.
-The [[Falcon]] that met us is named [[Bismuth]]
+we have to wait for the [[The Falcons]] to come ask questions.
+The [[The Falcons]] that met us is named [[Bismuth]]
 
 we showed him the oil and he wants it as evidence.
 

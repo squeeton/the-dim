@@ -25,7 +25,7 @@ nimbusLongTerm: ""
 traits: []
 description: ""
 groups:
-  - "[[Sifter]]"
+  - "[[The Sifters]]"
 ---
 > [!data-layer]- Metadata
 >

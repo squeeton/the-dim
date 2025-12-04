@@ -78,7 +78,7 @@ it speaks back in a whisper. it doesnt know our terms
 it says our protections are fading. and wants to claim new territory. 
 the runes on the [[Graybeards]] were protections. they snapped and are no longer working. 
 
-Dirk introduces himself. the being is called [[Lost]] 
+Dirk introduces himself. the being is called [[Jormy]] 
 we asked about who put the protections there. asks if we killed her to claim this territory. 
 if the runes are exposed she is dead. which says this is free territory.
 
@@ -92,10 +92,10 @@ asks if we want to find the man instead of how to find him. we described him, he
 to kill a witch you destroy the eye. he intentionally brought the eye here before destroying it. strangely personal. 
 
 
-the runes prevented [[Lost Ones]] from approaching us. 
+the runes prevented [[The Forgotten]] from approaching us. 
 
 
-witches are good at hiding. [[Lost]] cannot find more. we can't find any as strong as [[Mother Ybah]].
+witches are good at hiding. [[Jormy]] cannot find more. we can't find any as strong as [[Mother Ybah]].
 it says it doesn't want our tainted land and turns to leave. 
 
 i end up brushing the scales. my [[Vveird|vveird]] leaves some magic behind on the touch. it was cold to the touch. 
@@ -116,7 +116,7 @@ whatever is underneath is lumpy and rises 6 feet above, blocking the view of the
  he says we should avoid towns until we learn to hide ourselves. 
 we each took an attempt at hiding [[Vveird]] 
 
- he seemed interested in [[Lost]]. asked us about our territory.
+ he seemed interested in [[Jormy]]. asked us about our territory.
  he asks us to complete a chore for information about the [[Elryc Frost]]
 
 [[Anya]] is worried about his sharp teeth and bloody [[Vveird]] aura

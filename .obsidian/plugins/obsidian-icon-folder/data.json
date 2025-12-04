@@ -123,10 +123,6 @@
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "Groups/Lost Ones.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "Locations/The Mire.md": {
     "iconName": "FasEarthAmericas"
   },
@@ -137,10 +133,6 @@
     "iconName": "FasExclamation"
   },
   "Creatures/Shorefeaster.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "NPCs/Lost.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
@@ -161,14 +153,6 @@
     "iconColor": null
   },
   "NPCs/Bask.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "NPCs/Name.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "Groups/Shale.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
@@ -221,19 +205,11 @@
   "Locations/Under The Lily.md": {
     "iconName": "FasEarthAmericas"
   },
-  "Groups/Fingersmiths.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "Creatures/Razor Eel.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
   "Groups/Order of Cheol.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "Groups/Sifter.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
@@ -336,28 +312,12 @@
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "NPCs/Blood Beard.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "Groups/Singer.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "Groups/Falcon.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
   "NPCs/Bismuth.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
   "Locations/The Stone Ward.md": {
     "iconName": "FasEarthAmericas"
-  },
-  "Groups/Weapers.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
   },
   "Locations/Business Venture.md": {
     "iconName": "FasEarthAmericas"
@@ -374,10 +334,6 @@
     "iconColor": null
   },
   "NPCs/The Lemur.md": {
-    "iconName": "FasUserAstronaut",
-    "iconColor": null
-  },
-  "Groups/Soul Binders.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
@@ -502,5 +458,48 @@
   },
   "Locations/Everhall.md": {
     "iconName": "FasEarthAmericas"
+  },
+  "Groups/The Forgotten.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Weapers.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Sifters.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Singers.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Shale.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Fingersmiths.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Falcons.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Groups/The Soul Binders.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Jormy.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Naymme.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "~Sessions/2025-12-03 Session Note.md": {
+    "iconName": "FasBook"
   }
 }

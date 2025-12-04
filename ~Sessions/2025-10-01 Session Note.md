@@ -40,7 +40,7 @@ lastSession: "[[2025-09-24 Session Note]]"
 ## Raw Notes
 
 we start making our way through the caves.
-dirk heard footsteps and left the party to investigate.
+dirk heard footsteps and left [[the party]] to investigate.
 
 anya and I  "helped" find our way out.
 
@@ -87,7 +87,7 @@ we stayed the night in the caves
 we made a vow to whoop the lemurs ass. 
 on the way [[Hardmire|home]] we saw 30-40 candles
 
-this is a mourning ritual to find a [[lost]] love one. its a commoners urban legend to stop bad mojo
+this is a mourning ritual to find a [[Jormy]] love one. its a commoners urban legend to stop bad mojo
 
 things were worse when we got back to [[Reedswatch]]
 things were eeire. the guards are gone.

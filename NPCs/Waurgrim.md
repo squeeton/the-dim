@@ -5,7 +5,9 @@ tags:
   - NPC
 icon: FasUserAstronaut
 iconColor:
-aliases: []
+aliases:
+  - Blood Beard
+  - Bloodbeard
 Personality: []
 Nimbus: ""
 Path: none
@@ -74,3 +76,5 @@ description: ""
 
 
 Information broker located in the [[Undercroft]]
+
+a mysterious man who sent an assassin after us

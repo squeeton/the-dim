@@ -8,9 +8,9 @@ aliases: []
 img: z_config/images/missing.jpg
 npcs:
   - "[[Boil]]"
-  - "[[Name]]"
+  - "[[Naymme]]"
   - "[[Bask]]"
-items: 
+items:
 overview: ""
 cssclasses:
   - wide-table

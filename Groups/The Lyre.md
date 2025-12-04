@@ -84,7 +84,3 @@ npcs: []
 >> ### Methods
 >> `VIEW[{methods}][text(renderMarkdown)]`
 # Free Text
-they are wanderers and can sometimes take passengers willingly.
-they bring stories and goods. 
-if they use a lyre they are a liar.
-when the lyre is away they are now speaking news. they have codes to not abuse that.

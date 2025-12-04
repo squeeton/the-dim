@@ -39,12 +39,12 @@ lastSession: "[[2025-08-13 Session Note]]"
 > 
 ## Raw Notes
 
-a [[Falcon]] approached us and returned our loot.
-it was a poison made by t he [[Weapers]]
+a [[The Falcons]] approached us and returned our loot.
+it was a poison made by t he [[The Weapers]]
 
 we stayed at elioise kenchs house.
 
-he told us about the [[Weapers]], and let us know they were very expensive. asks if we have enemies.
+he told us about the [[The Weapers]], and let us know they were very expensive. asks if we have enemies.
 
 I immediately blamed elryic frost for this.
 
@@ -78,7 +78,7 @@ she gave us a vial with a few drops. something that can suppress a haunting for 
 
 she said her order was throughout [[The Dim]]
 
-she shows us a small design that indicated her order. it looks like a knot. she is a [[Soul Binders]]
+she shows us a small design that indicated her order. it looks like a knot. she is a [[The Soul Binders]]
 we're capable. je'tah's or curse finders.
 
 

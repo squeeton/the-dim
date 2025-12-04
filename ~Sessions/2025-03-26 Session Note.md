@@ -62,7 +62,7 @@ the gray watch over us and keep us safe
 
 [[anya]] - dreamt of friendly fire.
 	if things dont seem right it might be presence of a lost one.
-[[Lost Ones]]
+[[The Forgotten]]
 
 dreams are important.
 
