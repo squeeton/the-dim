@@ -132,25 +132,4 @@ we had to make wis saves.
 
 there is a woman standing in the road. dreadlocks, bare feet, sheathes, daggers, bone.
 
-we have dreams of being hunted by [[Hykla]]
 
-we find thornrush
-a brambley brush with long fang like spines. its choking out other plants.
-as we move we can hear chewing sounds. the sounds of carcasses being eaten.
-
-impaled on the spines are a couple humanoids
-this couple of werewolves are being prometheused. in a state of healing permenant damage. they are put there as an example.
-
-we saw through the thorns to free these people.
-they have trouble communicating. 
-they ask about us and we tell them we're here to kill [[Hykla]]
-
-the woman hunches over and protects the man. i offer them water and they drink it greedily.
-
-theyre not werewolves by choice.
-they were strung up because they refused the hunt. they were punished by [[Hykla]]
-
-everything that hunts hykla sees.
-we cannot surprise him.
-i gave them some supplies.
-they are unsure what causes the curse to take effect.
