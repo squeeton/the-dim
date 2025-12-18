@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 31
 lastSession: "[[2025-11-26 Session Note]]"
+description: A visit to the timeless Everhall reveals forgotten gods and a deal offered by Oberon, while a werewolf pack pleads for help killing the cursed hunter Hykla in his southern grove.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-11-26 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 the man inside is a gnome, gnomish features.

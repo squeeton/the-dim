@@ -5,13 +5,12 @@ tags:
 icon: FasUserAstronaut
 iconColor: 
 aliases:
-  - Dirk Stonejaw
-  - Kirk
+  - Dayshia
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/dirk stonejaw.png
+img: z_config/images/anya.PNG
 arcana: []
 gnosis: 1
 items: []
@@ -24,9 +23,8 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-perception: 16
+perception: 9
 ---
-> [!data-layer]- Metadata
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -42,7 +40,7 @@ perception: 16
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Dirk Stonejaw
+# Anya
 > [!column|2 no-title]
 >
 >>

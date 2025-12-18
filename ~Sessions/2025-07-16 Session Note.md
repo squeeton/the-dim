@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 17
 lastSession: "[[2025-07-09 Session Note]]"
+description: Traveling to The Bastards, the party makes deals, gains a gigantopede, and encounters strange entities; they meet Sunder refugees who deny the local rumors and Ajax ties in a fight with a werewolf.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-07-09 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we set off for [[The Bastards]]

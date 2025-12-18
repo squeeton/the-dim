@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 30
 lastSession: "[[2025-11-05 Session Note]]"
+description: Exploring the cursed grove and crafting an effigy for Andz to slay her brother Hykla, the party later investigates a strange figure who traps them in the extradimensional Everhall.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-11-05 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we start staring down a woman in the road. shes confident with black hands and feet like shes hadling coal.

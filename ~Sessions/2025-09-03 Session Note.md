@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 22
 lastSession: "[[2025-08-13 Session Note]]"
+description: The party arrives in a fearful Reedswatch, learning of a lycanthropic curse from Sunder and giant-related nightmares linked to Waurgrim, while seeking the Soul Binder, Jasinka Wells, for answers.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-08-13 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 a [[The Falcons]] approached us and returned our loot.
@@ -52,7 +57,7 @@ dirk reminded us of [[Blood Beard]]
 
 he then returned our loot, 
 i think we should interogate the next crying person.
-
+[[Training Instructors]]
 we turn in the necklace.
 
 she wants there to be a bridge. someone ot be cursed so that she can lift it.
@@ -70,9 +75,9 @@ she gave us a vial with a few drops. something that can suppress a haunting for 
 
 
 ##### Fighting Style Upgrades
-**[[Dirk]]**: Dueling Style. Seek out **Hythias Mrey** at the [[Rat King]]
-**[[Ajax]]**: Great Weapon Fighting. Seek out **Braximus Bellowgrind** at [[Falgo's Watch]].
-**[[Darius]]**/**[[Anya]]**: Defense Style. Seek out **Yorik Scale-Shine** in [[Sunder]].
+**[[Dirk]]**: Dueling Style. Seek out **[[Hythias Mrey]]** at the [[Rat King]]
+**[[Ajax]]**: Great Weapon Fighting. Seek out **[[Braximus Bellowgrind]]** at [[Falgo's Watch]].
+**[[Darius]]**/**[[Anya]]**: Defense Style. Seek out **[[Yorik Scale-Shine]]** in [[Sunder]].
 
 
 

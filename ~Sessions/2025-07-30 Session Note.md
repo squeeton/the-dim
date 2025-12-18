@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 19
 lastSession: "[[2025-07-23 Session Note]]"
+description: After more trading and a violent attack by an assassin, the party is directed to the city's authorities; Llyrah performs a disturbing ritual to remove a curse from Dirk before requesting payment.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-07-23 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we tried to trade for more consumable magic items.

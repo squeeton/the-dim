@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 29
 lastSession: "[[2025-10-29 Session Note]]"
+description: After interrogating Tavrey and discovering Waurgrim's path to Cloudhaven, the party finds a broken horn among the giant's remains and prepares to seek giants for repairs, encountering a sporefall, a rescued monk, and the mysterious woman Andz again on the road to Sunder.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-10-29 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we interrogated the bedridden folks to get another entry into [[Undercroft]]

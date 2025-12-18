@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 28
 lastSession: "[[2025-10-15 Session Note]]"
+description: The town's mood lifts after communal efforts, as a ghostly giant, Invjorm, reveals he was usurped by Waurgrim and tasks the party with finding the "last key" in his place of death to restore the Ordning.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-10-15 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 unclear if we fixed the problem yet. most of the issues are from the vibes of people. 

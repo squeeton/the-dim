@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 13
 lastSession: "[[2025-06-11 Session Note]]"
+description: The party's ambush fails, separating them through a portal where they follow a blood trail, battle kuo-toa, and face a strange god that stuns them with goo.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-06-11 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we faiiled our ambush

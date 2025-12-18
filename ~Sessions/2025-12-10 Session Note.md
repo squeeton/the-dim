@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 32
 lastSession: "[[2025-12-03 Session Note]]"
+description: The party confronts Hykla in his cursed grove, resulting in the deaths of Dirk and Anya before they are resurrected by Madam Pembrosia after declining reincarnation.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-12-03 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 bramble thorns twisting around everything. they grow fast and choke out the natural fauna.

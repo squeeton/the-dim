@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 25
 lastSession: "[[2025-09-17 Session Note]]"
+description: The Lemur leads the party to an Undercroft entrance and they encounter mysterious Vulturekin before she abandons them in the tunnels, leaving them to navigate a dangerous ambush alone.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-09-17 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 darius got a moment of vindication while samsom wasnt able to get his weapons sharpened.

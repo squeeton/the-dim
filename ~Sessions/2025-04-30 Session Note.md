@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 7
 lastSession: "[[2025-04-23 Session Note]]"
+description: Meeting Nyello Frost reveals a test to hunt a Tri-stag, while Sifter Jan discloses information about Elryc Frost; the party helps Watchers burn a thorny mass and discovers a sprout queen inside a seed.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-04-23 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 the man's arm was reddened and itchy.

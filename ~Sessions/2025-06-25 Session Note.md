@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 14
 lastSession: "[[2025-06-18 Session Note]]"
+description: After being swallowed by a creature and fighting off kua-toa, the party meets the eerie Mr. Wonderful, who requests bones for memories, before encountering magic-hunting creatures called Svarts.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-06-18 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 Dirk got the chest and started to run away and got grabbed.

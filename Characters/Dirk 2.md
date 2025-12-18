@@ -1,11 +1,10 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags: 
+tags:
 icon: FasUserAstronaut
-iconColor: 
+iconColor:
 aliases:
-  - Dirk Stonejaw
   - Kirk
 Personality: []
 Nimbus: ""

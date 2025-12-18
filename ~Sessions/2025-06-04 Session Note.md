@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 11
 lastSession: "[[2025-05-21 Session Note]]"
+description: Meeting Waurgrim reveals he hunts gods and tasks the party with finding a kuo-toa chest; they receive training leads, summon mounts, and meet cloud giants seeking revenge on a serpent before magically entering the kuo-toa lair.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-05-21 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 

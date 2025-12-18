@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 18
 lastSession: "[[2025-07-16 Session Note]]"
+description: The party encounters the prophetic thief Dan, who sends them to The Bastards marketplace; they secure a gigantopede for Dirk and trade honey for plate armor, while learning to find Llyrah for the haunting.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-07-16 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 on the second day we saw in the middle of the day a large black patch. vanta black. jarring to see. 

@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 8
 lastSession: "[[2025-04-30 Session Note]]"
+description: The party cares for Fern, a telepathic plant child of Laranth, and meets the immortal siblings Bodie and Lodie at a magical inn, who confirm Mother Ybah was a witch who manipulated memories and likely farmed the village as cannibals.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-04-30 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 The humanoid plant thing didnt seem dangerous, so we decided to keep it, until it became a danger where i promised i would put it down.

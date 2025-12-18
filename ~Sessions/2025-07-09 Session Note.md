@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 16
 lastSession: "[[2025-07-02 Session Note]]"
+description: The party defeats a giant troll, confirms their story with Sifter Jan, and receives tattoos and teaching from Waurgrim before using downtime to study and prepare for the journey to The Bastards.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-07-02 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 We came across a rhythmic twitching bush

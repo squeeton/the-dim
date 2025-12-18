@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 5
 lastSession: "[[2025-04-09 Session Note]]"
+description: Exploring dangerous ruins, the party retrieves a +1 shortsword from a trapped room before fleeing a sporefall and a mysterious "back monster" that wants to play hide and seek.
 ---
 > [!data-layer]- Metadata
 >
@@ -36,6 +37,10 @@ lastSession: "[[2025-04-09 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 

@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 21
 lastSession: "[[2025-08-06 Session Note]]"
+description: The party explores a strange, collapsing town drawn towards a central pit, finding a blood-obsessed paintbrush and learning the amulet and demonic runes are linked to the exiled giant, Waurgrim, a target of the vengeful Order of Cheol.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-08-06 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 i kick a rock down the hole. it is very deep, and an irregular shaped hole.

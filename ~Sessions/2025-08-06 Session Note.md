@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 20
 lastSession: "[[2025-07-30 Session Note]]"
+description: Llyrah sends the party to retrieve a haunted necklace from a cursed farm, while Anya communes with a fire primordial; en route, they encounter a blighted, corrupted landscape and witness a strange, pale arm being pulled into a pit.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-07-30 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 We pick up the session with [[Llyrah]]asking about payment

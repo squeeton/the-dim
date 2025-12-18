@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 6
 lastSession: "[[2025-04-16 Session Note]]"
+description: The party arrives in Reedswatch, is questioned by Sifter Jan about their suspicious timing and Elryc Frost, and learns to seek weapon training from Nyello Frost while discovering the local market's oddities.
 ---
 [[Falgo's Watch]]
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-04-16 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we arrived att [[Reedswatch]]

@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 10
 lastSession: "[[2025-05-14 Session Note]]"
+description: The party collects Tri-stag meat, encounters strange followers of the "Master of Inconsistency," finds bodies in a river, and trades with the girl Trixie in the Undercroft after getting approval from Waurgrim.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-05-14 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 [[Tri-stag]]weight 45 lbs

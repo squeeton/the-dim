@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 27
 lastSession: "[[2025-10-01 Session Note]]"
+description: Investigating Sifter Jan's chests reveals secrets and treasures, while the party uncovers a gruesome, rune-marked ritual involving townsfolk and roots in the Undercroft, which collapses after they attempt a rescue.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-10-01 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 i tried to use locate object again and failed quite miserably.

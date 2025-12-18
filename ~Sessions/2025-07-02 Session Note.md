@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 15
 lastSession: "[[2025-06-25 Session Note]]"
+description: After fighting Svarts, the party meets the Lyrebird trader Gillium, trades for tattoos, and declines an offer for a gigantopede while discovering ominous runic items in a black chest.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-06-25 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 the svarts tried to get our magic items

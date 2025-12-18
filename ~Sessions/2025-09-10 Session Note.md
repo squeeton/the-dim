@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 23
 lastSession: "[[2025-09-03 Session Note]]"
+description: The party arrives in a fearful Reedswatch, learning of a lycanthropic curse from Sunder and giant-related nightmares linked to Waurgrim, while seeking the Soul Binder, Jasinka Wells, for answers.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-09-03 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 these arm gorilla love/hate ajax.

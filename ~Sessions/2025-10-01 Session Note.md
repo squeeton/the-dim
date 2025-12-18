@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 26
 lastSession: "[[2025-09-24 Session Note]]"
+description: The party encounters a fungal colony and bonds with it, then returns to Reedswatch to find a mass suicide at The Gilded Lily and discovers the chest containing Ajax’s armor and other mysterious items.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-09-24 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 we start making our way through the caves.

@@ -1,14 +1,37 @@
 ---
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - SessionJournals
-icon: FasBook
-aliases: []
-session: 12
-lastSession: "[[2025-06-04 Session Note]]"
-description: Exploring a water-filled dungeon, the party fights a crab, uses its shell to open gates, and searches for kuo-toa, preparing to ambush them.
+  - Group
+icon: FasUserAstronaut
+iconColor:
+aliases:
+  - " "
+Personality: []
+Nimbus: ""
+Path: none
+Order: none
+img: z_config/images/ImagePlaceholder.png
+arcana: []
+gnosis:
+items: []
+locations: []
+pronunciation: " "
+motivation: ""
+weakness: ""
+nimbusSignature: ""
+nimbusImmediate: ""
+nimbusLongTerm: ""
+traits: []
+description: ""
+philosophy: ""
+methods: ""
+mysteries: []
+npcs:
+  - "[[Braximus Bellowgrind]]"
+  - "[[Hythias Mrey]]"
+  - "[[Yorik Scale-Shine]]"
 ---
-
 > [!data-layer]- Metadata
 >
 > |                                       |                                  |
@@ -22,36 +45,56 @@ description: Exploring a water-filled dungeon, the party fights a crab, uses its
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> | **Session** |`INPUT[number:session]`|
-> | **Last Session** |`INPUT[text:lastSession]`|
-
+> |**Philosophy** |`INPUT[textArea:philosophy]`|
+> |**Methods** |`INPUT[textArea:methods]`|
+# Training Instructors
 > [!infobox | right]+
-> # 2025-06-11 Session Note
+> # Training Instructors
+> `VIEW[{img}][image]`
+> ## Notables
 > |  Information | Links |
 > | --- | --- |
-> | **Session** | `VIEW[{session}][text(renderMarkdown)]` |
-> | **Last Session** | `VIEW[{lastSession}][text(renderMarkdown)]` |
 > | **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > | **NPCs** | `VIEW[{npcs}][link]` |
 > | **Items** | `VIEW[{items}][link]` |
 > | **Locations** | `VIEW[{locations}][link]` |
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
-> 
-## Synopsis
 
-`VIEW[{description}][text(renderMarkdown)]`
+> [!column|2 no-title]
+>
+>>| Pronunciation | Also Known AS|
+>>| ----- | ----- |
+>>
+>> ### Description
+>>  `VIEW[{description}][text(renderMarkdown)]`
+>
+>> 
+>> `INPUT[imageSuggester(optionQuery("")):img]`
 
-## Raw Notes
+# Details
+> [!column|2 no-title]
+>
+>>
+>> ### Philosophy
+>> `VIEW[{philosophy}][text(renderMarkdown)]`
+>>  
+>
+>> ### Methods
+>> `VIEW[{methods}][text(renderMarkdown)]`
+#### Scratchpad
 
-dungeon exploration.
-there is a strong currrent making traversal difficult.
-we fought a crab.
-then plugged the hole with the crab shell
-this opened portcullis' we trapped ourselves in
-found caviar
-and tried to take their children.
 
-we moved some pendulums to open the port cullis'
 
-we explored the whole dungeon before finding the kua toa. we're about to ambush them.
+
+
+
+
+
+
+
+
+
+
+
+

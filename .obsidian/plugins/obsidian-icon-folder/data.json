@@ -504,5 +504,29 @@
   },
   "~Sessions/2025-12-10 Session Note.md": {
     "iconName": "FasBook"
+  },
+  "Groups/Training Instructors.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Hythias Mrey.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Braximus Bellowgrind.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Yorik Scale-Shine.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Characters/Dirk 2.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Characters/Anya 2.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }

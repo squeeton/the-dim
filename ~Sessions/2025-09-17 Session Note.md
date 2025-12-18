@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 24
 lastSession: "[[2025-09-10 Session Note]]"
+description: The town is gripped by a despondent plague of suicides, not a haunt, as the party investigates clues and helps the community while learning about the mysterious "Lemur" who may know an entrance to the Undercroft.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-09-10 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 GM Emphasis

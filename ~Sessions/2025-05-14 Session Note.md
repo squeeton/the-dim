@@ -6,6 +6,7 @@ icon: FasBook
 aliases: []
 session: 9
 lastSession: "[[2025-05-07 Session Note]]"
+description: Tracking and fighting a Tri-stag in dangerous territory, the party overcomes its astral projections and carnivorous plants to finally kill it after Dirk grapples the creature.
 ---
 
 > [!data-layer]- Metadata
@@ -37,6 +38,10 @@ lastSession: "[[2025-05-07 Session Note]]"
 > | **Groups** | `VIEW[{groups}][link]` |
 > | **Events** | `VIEW[{events}][link]` |
 > 
+## Synopsis
+
+`VIEW[{description}][text(renderMarkdown)]`
+
 ## Raw Notes
 
 on our way the first day we were ambushed by a hill giant.
