@@ -6,8 +6,10 @@ tags:
 icon: FasEarthAmericas
 aliases: []
 img: z_config/images/missing.jpg
-npcs: 
-items: 
+npcs:
+  - "[[Pic]]"
+  - "[[Nyello Frost]]"
+items:
 overview: ""
 cssclasses:
   - wide-table
@@ -17,6 +19,7 @@ maptack: 4
 groups: []
 locations:
   - "[[The Dim]]"
+  - "[[Reedswatch]]"
 ---
 
 

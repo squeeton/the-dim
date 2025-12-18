@@ -51,7 +51,7 @@ we follow the smell of blood.
 we make our way to a clearing.
 we saw for werepeople chilling in the evil land. we tried talking to them and telling them to leave so we can heal them.
 
-hykla was in the shadows just watching us.
+[[hykla]] was in the shadows just watching us.
 he (presumably) asked if aandz sent us.
 anys asked why he was hurting peopl
 then he asked if anya sung his song.
