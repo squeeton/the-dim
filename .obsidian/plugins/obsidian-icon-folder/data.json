@@ -521,11 +521,53 @@
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "Characters/Dirk 2.md": {
+  "~Sessions/2026-01-07 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Characters/Neema.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "Characters/Anya 2.md": {
+  "Characters/Voss.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "~Sessions/2026-01-28 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Locations/The Way Path.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Delve.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Groups/Milikul.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Creatures/Clench.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "Locations/The Deep.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "Locations/Dougan's Flames.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "NPCs/Eegan.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Jorah.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Yeena.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
+  },
+  "NPCs/Gourmain.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
   }

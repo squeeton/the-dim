@@ -2,18 +2,17 @@
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
 tags:
-  - Group
+  - Creature
 icon: FasUserAstronaut
-iconColor:
-aliases:
-  - " "
+iconColor: 
+aliases: []
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/ImagePlaceholder.png
+img: z_config/images/missing.jpg
 arcana: []
-gnosis:
+gnosis: 1
 items: []
 locations: []
 pronunciation: " "
@@ -23,26 +22,9 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: |-
-  they are concerned with civilizations of the past.
-  particularly those involved in The Vveird
-  they can read
-
-  Attracts individuals of two primary traits
-  curiosity and vengeance
-
-  most are scholars.
-  you must make a promise when entering the order.
-  this will usually have a promise dealing with an other
-
-  when they complete their promise they are promoted to promise keeper
-  and they become teachers and well regarded.
-philosophy: ""
-methods: ""
-mysteries: []
-npcs:
-  - "[[Elryc Frost]]"
-  - "[[Waurgrim]]"
+description: ""
+defenses: ""
+uses: ""
 ---
 > [!data-layer]- Metadata
 >
@@ -57,11 +39,12 @@ npcs:
 > |**Groups** | `INPUT[inlineListSuggester(optionQuery("Groups"), useLinks(partial)):groups]`|
 > |**Events** | `INPUT[inlineListSuggester(optionQuery("Events"), useLinks(partial)):events]`|
 > |**Description** |`INPUT[textArea:description]`|
-> |**Philosophy** |`INPUT[textArea:philosophy]`|
-> |**Methods** |`INPUT[textArea:methods]`|
-# Order of Cheol
+> |**Uses** |`INPUT[textArea:uses]`|
+> |**Defenses** |`INPUT[textArea:defenses]`|
+
+# Clench
 > [!infobox | right]+
-> # Order of Cheol
+> # Klench
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
@@ -75,42 +58,22 @@ npcs:
 
 > [!column|2 no-title]
 >
+>>
+>> ### Overview
 >>| Pronunciation | Also Known AS|
 >>| ----- | ----- |
->>
->> ### Description
+>>|`VIEW[{pronunciation}][text(renderMarkdown)]`|`VIEW[{aliases}][text(renderMarkdown)]`|
+>>### Description
 >>  `VIEW[{description}][text(renderMarkdown)]`
+>>### Uses
+>>  `VIEW[{uses}][text(renderMarkdown)]`
+>>### Defenses
+>>  `VIEW[{defenses}][text(renderMarkdown)]`
 >
 >> 
 >> `INPUT[imageSuggester(optionQuery("")):img]`
 
-# Details
-> [!column|2 no-title]
->
->>
->> ### Philosophy
->> `VIEW[{philosophy}][text(renderMarkdown)]`
->>  
->
->> ### Methods
->> `VIEW[{methods}][text(renderMarkdown)]`
 #### Scratchpad
-
-
-they are concerned with civilizations of the past.
-particularly those involved in [[The Vveird]] 
-they can read
-
-
-Attracts individuals of two primary traits
-curiosity and vengeance
-
-most are scholars. 
-you must make a promise when entering the order.
-this will usually have a promise dealing with an other
-
-when they complete their promise they are promoted to promise keeper
-and they become teachers and well regarded.
-
-
-FAR Southwest
+can grow and shrink,
+they can spider climb
+they are larval versions of the [[Milikul]]

@@ -1,16 +1,16 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 dg-publish: false
-tags: 
+tags:
 icon: FasUserAstronaut
-iconColor: 
+iconColor:
 aliases:
   - Dayshia
 Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/anya.PNG
+img: Pasted image 20260128194246.png
 arcana: []
 gnosis: 1
 items: []
@@ -23,7 +23,7 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-perception: 9
+perception: 17
 ---
 > [!data-layer]- Metadata
 >
@@ -71,3 +71,4 @@ perception: 9
 >> `VIEW[{npcs}][link]` 
 
 # Other Details
+![[Pasted image 20260128194246.png]]

@@ -4,7 +4,7 @@ dg-publish: false
 tags:
   - Group
 icon: FasUserAstronaut
-iconColor:
+iconColor: 
 aliases:
   - " "
 Personality: []
@@ -13,7 +13,7 @@ Path: none
 Order: none
 img: z_config/images/ImagePlaceholder.png
 arcana: []
-gnosis:
+gnosis: 
 items: []
 locations: []
 pronunciation: " "
@@ -23,26 +23,11 @@ nimbusSignature: ""
 nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
-description: |-
-  they are concerned with civilizations of the past.
-  particularly those involved in The Vveird
-  they can read
-
-  Attracts individuals of two primary traits
-  curiosity and vengeance
-
-  most are scholars.
-  you must make a promise when entering the order.
-  this will usually have a promise dealing with an other
-
-  when they complete their promise they are promoted to promise keeper
-  and they become teachers and well regarded.
+description: ""
 philosophy: ""
 methods: ""
 mysteries: []
-npcs:
-  - "[[Elryc Frost]]"
-  - "[[Waurgrim]]"
+npcs: []
 ---
 > [!data-layer]- Metadata
 >
@@ -59,9 +44,9 @@ npcs:
 > |**Description** |`INPUT[textArea:description]`|
 > |**Philosophy** |`INPUT[textArea:philosophy]`|
 > |**Methods** |`INPUT[textArea:methods]`|
-# Order of Cheol
+# Milikul
 > [!infobox | right]+
-> # Order of Cheol
+> # Milicule
 > `VIEW[{img}][image]`
 > ## Notables
 > |  Information | Links |
@@ -97,20 +82,21 @@ npcs:
 #### Scratchpad
 
 
-they are concerned with civilizations of the past.
-particularly those involved in [[The Vveird]] 
-they can read
 
 
-Attracts individuals of two primary traits
-curiosity and vengeance
-
-most are scholars. 
-you must make a promise when entering the order.
-this will usually have a promise dealing with an other
-
-when they complete their promise they are promoted to promise keeper
-and they become teachers and well regarded.
 
 
-FAR Southwest
+
+ an insectoid hivemind.
+
+
+
+
+
+
+
+they wear bright flowy robes
+they try to take a non intimidating aura
+they are fascinated with individuality and consider it art.
+critically wounded can offer to join the hive and have their consciousness consumed to the hivemind.
+they are grateful for these mind contributions

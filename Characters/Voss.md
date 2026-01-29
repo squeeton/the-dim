@@ -10,7 +10,7 @@ Personality: []
 Nimbus: ""
 Path: none
 Order: none
-img: z_config/images/dirk stonejaw.png
+img: Pasted image 20260128194219.png
 arcana: []
 gnosis: 1
 items: []
@@ -23,7 +23,7 @@ nimbusImmediate: ""
 nimbusLongTerm: ""
 traits: []
 description: ""
-perception: 16
+perception: 12
 ---
 > [!data-layer]- Metadata
 > [!data-layer]- Metadata
@@ -41,7 +41,7 @@ perception: 16
 > |**Motivations** |`INPUT[textArea:motivation]`|
 > |**Weaknesses** |`INPUT[textArea:weakness]`|
 
-# Dirk Stonejaw
+# Voss
 > [!column|2 no-title]
 >
 >>
@@ -72,3 +72,4 @@ perception: 16
 >> `VIEW[{npcs}][link]` 
 
 # Other Details
+![[Pasted image 20260128194219.png]]

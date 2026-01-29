@@ -38,6 +38,6 @@ FROM "Characters"
 >> # Sessions
 >> ```dataview
 >> LIST from "~Sessions"
->> LIMIT 10
 >> SORT file.name DESC
+>> LIMIT 10
 >> ```
