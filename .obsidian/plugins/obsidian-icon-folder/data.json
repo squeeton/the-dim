@@ -570,5 +570,17 @@
   "NPCs/Gourmain.md": {
     "iconName": "FasUserAstronaut",
     "iconColor": null
+  },
+  "~Sessions/2026-02-04 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "Locations/The Trophy Hall.md": {
+    "iconName": "FasEarthAmericas"
+  },
+  "~Sessions/2026-02-25 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/2026-03-04 Session Note.md": {
+    "iconName": "FasBook"
   }
 }
