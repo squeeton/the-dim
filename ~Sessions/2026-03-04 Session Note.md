@@ -109,3 +109,5 @@ the desire bleeds out of my body and the door opens,
 we make it into the forge and start snooping
 as i enter the behind us disapears and we kind of end up in the middle of the room with no exit.
 the sections are labeled by category 80ft in the air.
+
+we heared something approaching. 

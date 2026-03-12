@@ -345,87 +345,6 @@
     "iconName": "FasUserAstronaut",
     "iconColor": null
   },
-  "~Sessions/2025-10-15 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-03-04 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-03-26 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-04-02 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-04-09 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-04-16 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-04-23 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-04-30 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-05-07 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-05-14 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-05-21 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-06-04 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-06-11 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-06-18 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-06-25 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-07-02 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-07-09 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-07-16 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-07-23 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-07-30 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-08-06 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-08-13 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-09-03 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-09-10 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-09-17 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-09-24 Session Note.md": {
-    "iconName": "FasBook"
-  },
-  "~Sessions/2025-10-01 Session Note.md": {
-    "iconName": "FasBook"
-  },
   "~Sessions/2025-10-29 Session Note.md": {
     "iconName": "FasBook"
   },
@@ -582,5 +501,93 @@
   },
   "~Sessions/2026-03-04 Session Note.md": {
     "iconName": "FasBook"
+  },
+  "~Sessions/2026-03-11 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-10-15 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-03-04 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-03-26 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-04-02 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-04-09 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-04-16 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-04-23 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-04-30 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-05-07 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-05-14 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-05-21 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-06-04 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-06-11 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-06-18 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-06-25 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-07-02 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-07-09 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-07-16 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-07-23 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-07-30 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-08-06 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-08-13 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-09-03 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-09-10 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-09-17 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-09-24 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "~Sessions/Old/2025-10-01 Session Note.md": {
+    "iconName": "FasBook"
+  },
+  "NPCs/Sartis.md": {
+    "iconName": "FasUserAstronaut",
+    "iconColor": null
   }
 }
